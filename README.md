@@ -1,3 +1,7 @@
+Below is your complete README in one block. You can copy and paste this directly into VS Code:
+
+---
+
 # GenAI for Software Development (Ngram)
 
 * [1 Introduction](#1-introduction)  
@@ -22,45 +26,53 @@ This project is implemented in **Python 3.9+** and is compatible with **macOS, L
 
 (1) Clone the repository to your workspace:  
 ```shell
-~ $ git clone https://github.com/your-repository/your-project.git
+~ $ git clone https://github.com/Mohameddeidd/N-Gram-Project.git
+```
 
 (2) Navigate into the repository:
-
-~ $ cd your-project
-~/your-project $
+```shell
+~ $ cd N-Gram-Project
+~/N-Gram-Project $
+```
 
 (3) Set up a virtual environment and activate it:
 
 For macOS/Linux:
-
-~/your-project $ python -m venv ./venv/
-~/your-project $ source venv/bin/activate
-(venv) ~/your-project $ 
-
+```shell
+~/N-Gram-Project $ python -m venv ./venv/
+~/N-Gram-Project $ source venv/bin/activate
+(venv) ~/N-Gram-Project $
+```
 
 To deactivate the virtual environment, use the command:
-
+```shell
 (venv) $ deactivate
 ```
 
 ## **2.2 Install Packages**
 
 Install the required dependencies:
-
-(venv) ~/your-project $ pip install -r requirements.txt
+```shell
+(venv) ~/N-Gram-Project $ pip install -r requirements.txt
+```
 
 ## **2.3 Run N-gram**
 
 (1) Run N-gram Demo
 
-The script takes a corpus of Java methods as input and automatically identifies the best-performing model based on a specific N-value. It then evaluates the selected model on the test set extracted according to the assignment specifications.
-Since the training corpus differs from both the instructor-provided dataset and our own dataset, we store the results in a file named results_provided_model.[json/csv/txt] to distinguish them accordingly.
+The script takes a corpus of Java methods as input and automatically identifies the best-performing model based on a specific N-value. It then evaluates the selected model on the test set extracted according to the assignment specifications. Since the training corpus differs from both the instructor-provided dataset and our own dataset, we store the results in files named `results_student_model.json` and `results_teacher_model.json` to distinguish them accordingly.
 
-(venv) ~/your-project $ python ngram.py corpus.txt
+Run the demo with:
+```shell
+(venv) ~/N-Gram-Project $ python NGram_Model.py training.txt
+```
 
+*(Ensure that `training.txt` is present in the project folder. If you also wish to train using the instructor-provided data, include `instructor_data.txt` as required.)*
 
-## 3. Report
+---
 
-The assignment report is available in the file Assignment_Report.pdf.
+# **3. Report**
 
+The assignment report is available in the file `Assignment_Report.pdf`.
 
+---
