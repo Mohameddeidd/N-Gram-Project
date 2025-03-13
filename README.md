@@ -22,7 +22,7 @@ A parallel teacher model is trained using instructor-provided data (`instructor_
 
 ## 5. Repository and Execution
 The complete source code (including `NGram_Model.py`), datasets, results, and this report are hosted on GitHub:
-[GitHub Repository Link](https://github.com/your-repository/your-project)
+[GitHub Repository Link]((https://github.com/Mohameddeidd/N-Gram-Project))
 
 To run the project:
 1. Ensure `training.txt` (and optionally `instructor_data.txt`) are in the project folder.
