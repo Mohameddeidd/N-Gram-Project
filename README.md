@@ -1,30 +1,66 @@
-# N-Gram-Project
+# GenAI for Software Development (Ngram)
 
-## 1. Introduction
-This project implements an N-gram language model to assist code completion for Java methods. The model predicts the next token in a sequence using statistical probabilities derived from a training corpus.
+* [1 Introduction](#1-introduction)  
+* [2 Getting Started](#2-getting-started)  
+  * [2.1 Preparations](#21-preparations)  
+  * [2.2 Install Packages](#22-install-packages)  
+  * [2.3 Run N-gram](#23-run-n-gram)  
+* [3 Report](#3-report)  
 
-## 2. Dataset Creation
-The training data was gathered in a text file (`training.txt`), where each line contains a single Java method. We preprocess this data using a custom regex-based tokenizer that preserves both code words and punctuation. The dataset is then split into training (70%), evaluation (15%), and test (15%) sets with a fixed random seed for reproducibility.
+---
 
-## 3. Model Training Methodology
-Our implementation includes:
-- **Tokenization:** A custom function tokenizes each Java method while retaining essential punctuation.
-- **N-gram Generation:** For each method, overlapping N-grams are generated and counts for each context and subsequent token are maintained.
-- **Smoothing:** Laplace smoothing is applied to handle unseen tokens.
-- **Evaluation:** We train models for various n-values (3, 4, 5, and 7) and select the best model based on the lowest perplexity computed on the evaluation set.
-- **Token Generation:** Instead of a purely greedy approach, we use temperature-based sampling to generate diverse code completions.
+# **1. Introduction**  
+This project explores **code completion in Java**, leveraging **N-gram language modeling**. The N-gram model predicts the next token in a sequence by learning the probability distributions of token occurrences in training data. The model selects the most probable token based on learned patterns, making it a fundamental technique in natural language processing and software engineering automation.  
 
-A parallel teacher model is trained using instructor-provided data (`instructor_data.txt`), and its evaluation results are stored in `results_teacher_model.json`.
+---
 
-## 4. Evaluation Results
-- **Student Model:** The best model (n=3) achieved a perplexity of approximately 403, and code completions were generated for 100 test methods. Results are saved in `results_student_model.json`.
-- **Teacher Model:** (If available, similar evaluation is performed and results are saved in `results_teacher_model.json`.)
+# **2. Getting Started**  
 
-## 5. Repository and Execution
-The complete source code (including `NGram_Model.py`), datasets, results, and this report are hosted on GitHub:
-[GitHub Repository Link](https://github.com/Mohameddeidd/N-Gram-Project)
+This project is implemented in **Python 3.9+** and is compatible with **macOS, Linux, and Windows**.  
 
-To run the project:
-1. Ensure `training.txt` (and optionally `instructor_data.txt`) are in the project folder.
-2. Install the necessary Python packages (`nltk`, `scikit-learn`, and `matplotlib`).
-3. Execute the main script with:
+## **2.1 Preparations**  
+
+(1) Clone the repository to your workspace:  
+```shell
+~ $ git clone https://github.com/your-repository/your-project.git
+
+(2) Navigate into the repository:
+
+~ $ cd your-project
+~/your-project $
+
+(3) Set up a virtual environment and activate it:
+
+For macOS/Linux:
+
+~/your-project $ python -m venv ./venv/
+~/your-project $ source venv/bin/activate
+(venv) ~/your-project $ 
+
+
+To deactivate the virtual environment, use the command:
+
+(venv) $ deactivate
+```
+
+## **2.2 Install Packages**
+
+Install the required dependencies:
+
+(venv) ~/your-project $ pip install -r requirements.txt
+
+## **2.3 Run N-gram**
+
+(1) Run N-gram Demo
+
+The script takes a corpus of Java methods as input and automatically identifies the best-performing model based on a specific N-value. It then evaluates the selected model on the test set extracted according to the assignment specifications.
+Since the training corpus differs from both the instructor-provided dataset and our own dataset, we store the results in a file named results_provided_model.[json/csv/txt] to distinguish them accordingly.
+
+(venv) ~/your-project $ python ngram.py corpus.txt
+
+
+## 3. Report
+
+The assignment report is available in the file Assignment_Report.pdf.
+
+
