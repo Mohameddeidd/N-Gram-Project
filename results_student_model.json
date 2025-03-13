@@ -1,7674 +1,3186 @@
 {
   "0": [
     [
-      "getPriceLevel",
-      "0.000"
-    ],
-    [
-      "tried",
-      "0.000"
-    ],
-    [
-      "is_public",
-      "0.000"
-    ],
-    [
-      "w",
-      "0.000"
-    ],
-    [
-      "RESULT",
-      "0.000"
-    ],
-    [
-      "Transportable",
-      "0.000"
-    ],
-    [
-      "typeHierarchyHelper",
-      "0.000"
-    ],
-    [
-      "nativeStopFinding",
-      "0.000"
-    ],
-    [
-      "asDerivedRoot",
-      "0.000"
-    ],
-    [
-      "_modified",
-      "0.000"
-    ],
-    [
-      "onIndexChanged",
-      "0.000"
-    ],
-    [
-      "setDataProtocol",
-      "0.000"
-    ],
-    [
-      "valueStack",
-      "0.000"
-    ],
-    [
-      "reservedReduceSlots",
-      "0.000"
-    ],
-    [
-      "CSSPrimitiveValue",
-      "0.000"
-    ],
-    [
-      "updateSyncDLObject",
-      "0.000"
-    ],
-    [
-      "isSendRenew",
-      "0.000"
-    ],
-    [
-      "SearchAccount",
-      "0.000"
-    ],
-    [
-      "opad",
-      "0.000"
-    ],
-    [
-      "ByteGetter",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "1": [
     [
+      "{",
+      "1.000"
+    ],
+    [
+      "return",
+      "0.246"
+    ],
+    [
       "(",
-      "0.825"
+      "0.201"
     ],
     [
-      "checkCol",
-      "0.000"
+      "arg0",
+      "0.523"
     ],
     [
-      "_layoutBranchService",
-      "0.000"
+      "&",
+      "0.203"
     ],
     [
-      "MathArithmeticException",
-      "0.000"
+      "~",
+      "0.122"
     ],
     [
-      "mString",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "currentMessageType",
-      "0.000"
+      "PRIVATE",
+      "0.600"
     ],
     [
-      "getNumRunnableApps",
-      "0.000"
+      "|",
+      "1.000"
     ],
     [
-      "ChangeLogRelease",
-      "0.000"
-    ],
-    [
-      "gitBasicAuth",
-      "0.000"
-    ],
-    [
-      "CreatePipelineResult",
-      "0.000"
-    ],
-    [
-      "DialValueIndicator",
-      "0.000"
-    ],
-    [
-      "AccSynchronized",
-      "0.000"
-    ],
-    [
-      "mPersistedFiles",
-      "0.000"
-    ],
-    [
-      "getPrimaryStage",
-      "0.000"
-    ],
-    [
-      "autoUpdate",
-      "0.000"
-    ],
-    [
-      "setSourceEntity",
-      "0.000"
-    ],
-    [
-      "sendHeader",
-      "0.000"
-    ],
-    [
-      "scalingPolicies",
-      "0.000"
-    ],
-    [
-      "TestAny",
-      "0.000"
-    ],
-    [
-      "TestCallbackHelperContainer",
-      "0.000"
+      "PROTECTED",
+      "0.667"
     ]
   ],
   "2": [
     [
-      "AS400",
-      "0.000"
-    ],
-    [
-      "hasTexCoords",
-      "0.000"
-    ],
-    [
-      "setProxyIfEnabled",
-      "0.000"
-    ],
-    [
-      "m_Value",
-      "0.000"
-    ],
-    [
-      "addServerCache",
-      "0.000"
-    ],
-    [
-      "getParamValue",
-      "0.000"
-    ],
-    [
-      "StringMatrix",
-      "0.000"
-    ],
-    [
-      "HibernateUtil",
-      "0.000"
-    ],
-    [
-      "XPathExpressionException",
-      "0.000"
-    ],
-    [
-      "DirectRefreshDelivery",
-      "0.000"
-    ],
-    [
-      "mMethodRefs",
-      "0.000"
-    ],
-    [
-      "unresolvedRefs",
-      "0.000"
-    ],
-    [
-      "actionHandlers",
-      "0.000"
-    ],
-    [
-      "coda",
-      "0.000"
-    ],
-    [
-      "_phone",
-      "0.000"
-    ],
-    [
-      "timestampGeneratorOf",
-      "0.000"
-    ],
-    [
-      "getInAngle",
-      "0.000"
-    ],
-    [
-      "requestSpec",
-      "0.000"
-    ],
-    [
-      "LocationVector",
-      "0.000"
-    ],
-    [
-      "FileIncludeInfo",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "3": [
     [
+      "{",
+      "1.000"
+    ],
+    [
+      "return",
+      "0.246"
+    ],
+    [
       "(",
-      "0.825"
+      "0.201"
     ],
     [
-      "K",
-      "0.000"
+      "arg0",
+      "0.523"
     ],
     [
-      "CSS_PRIMITIVE_VALUE",
-      "0.000"
+      "&",
+      "0.203"
     ],
     [
-      "sockType",
-      "0.000"
+      "~",
+      "0.122"
     ],
     [
-      "messageMaxRedeliveryCount",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "isStageActive",
-      "0.000"
+      "PRIVATE",
+      "0.600"
     ],
     [
-      "StorageUri",
-      "0.000"
+      "|",
+      "1.000"
     ],
     [
-      "unmarshallerProperties",
-      "0.000"
-    ],
-    [
-      "NumericDocValues",
-      "0.000"
-    ],
-    [
-      "bookNumber",
-      "0.000"
-    ],
-    [
-      "parseClassDesc",
-      "0.000"
-    ],
-    [
-      "rdesshow",
-      "0.000"
-    ],
-    [
-      "FolderEvent",
-      "0.000"
-    ],
-    [
-      "SimpleDraweeView",
-      "0.000"
-    ],
-    [
-      "snum",
-      "0.000"
-    ],
-    [
-      "getOffsetX",
-      "0.000"
-    ],
-    [
-      "setProcessName",
-      "0.000"
-    ],
-    [
-      "LogAdapter",
-      "0.000"
-    ],
-    [
-      "parse",
-      "0.000"
-    ],
-    [
-      "getCurrentTimeZoneID",
-      "0.000"
+      "PROTECTED",
+      "0.667"
     ]
   ],
   "4": [
     [
-      "(",
-      "0.825"
+      "Object",
+      "0.205"
+    ],
+    [
+      "arg1",
+      "0.971"
     ],
     [
       ")",
-      "0.577"
+      "0.879"
     ],
     [
       "{",
-      "0.483"
+      "1.000"
     ],
     [
       "return",
-      "0.546"
+      "0.193"
     ],
     [
       "null",
-      "0.029"
+      "0.222"
     ],
     [
       ";",
-      "0.143"
+      "1.000"
+    ],
+    [
+      "}",
+      "1.000"
+    ],
+    [
+      "</s>",
+      "0.478"
+    ],
+    [
+      "</s>",
+      "1.000"
     ]
   ],
   "5": [
     [
       "(",
-      "0.343"
-    ],
-    [
-      "String",
-      "0.144"
-    ],
-    [
-      "arg0",
-      "0.575"
+      "1.000"
     ],
     [
       ")",
-      "0.447"
+      "1.000"
     ],
     [
-      "{",
-      "0.661"
+      ".",
+      "1.000"
     ],
     [
-      "return",
-      "0.546"
+      "cacheResult",
+      "0.680"
     ],
     [
-      "getModuleObject",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "NONE",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "getAtomicLong",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "longOpts",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "extract_ulong",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "seqStart",
-      "0.000"
-    ],
-    [
-      "setOutlineProvider",
-      "0.000"
-    ],
-    [
-      "appendPart",
-      "0.000"
-    ],
-    [
-      "MetricGranularityType",
-      "0.000"
-    ],
-    [
-      "setEntityManagerFactory",
-      "0.000"
-    ],
-    [
-      "addVideoPropertyChangeListener",
-      "0.000"
-    ],
-    [
-      "metricSort",
-      "0.000"
-    ],
-    [
-      "GradientBarPainter",
-      "0.000"
-    ],
-    [
-      "setByteMatchTuple",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "6": [
     [
-      "customerInfos",
-      "0.000"
+      "this",
+      "0.119"
     ],
     [
-      "encryptionProperties",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "synchronizedMap",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "SPARK_NETWORK_IO_MODE_KEY",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "writePos",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "_tasksEntryService",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Global",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Gauge",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "IRepositoryListener",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "prevBytePos",
-      "0.000"
-    ],
-    [
-      "MqttAsyncConnection",
-      "0.000"
-    ],
-    [
-      "rightHand",
-      "0.000"
-    ],
-    [
-      "HOT",
-      "0.000"
-    ],
-    [
-      "DescribeScalingProcessTypesResult",
-      "0.000"
-    ],
-    [
-      "RecurringCharge",
-      "0.000"
-    ],
-    [
-      "dBInstances",
-      "0.000"
-    ],
-    [
-      "m_ip",
-      "0.000"
-    ],
-    [
-      "getInitialDelay",
-      "0.000"
-    ],
-    [
-      "getDayById",
-      "0.000"
-    ],
-    [
-      "CommandOPEN",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "7": [
     [
-      "yRange",
-      "0.000"
-    ],
-    [
-      "paper",
-      "0.000"
-    ],
-    [
-      "MECHANISM",
-      "0.000"
-    ],
-    [
-      "TO",
-      "0.000"
-    ],
-    [
-      "connectedAP",
-      "0.000"
-    ],
-    [
-      "IPropertiesProvider",
-      "0.000"
-    ],
-    [
-      "processUpload",
-      "0.000"
-    ],
-    [
-      "mAddsSinceSort",
-      "0.000"
-    ],
-    [
-      "isCallLike",
-      "0.000"
-    ],
-    [
-      "FlushableDataOutputImpl",
-      "0.000"
-    ],
-    [
-      "EventStream",
-      "0.000"
-    ],
-    [
-      "streamOut",
-      "0.000"
-    ],
-    [
-      "MovieItem",
-      "0.000"
-    ],
-    [
-      "subgrid",
-      "0.000"
-    ],
-    [
-      "TopologicalNode",
-      "0.000"
-    ],
-    [
-      "UnloadTenantTask",
-      "0.000"
-    ],
-    [
-      "addSprite",
-      "0.000"
-    ],
-    [
-      "several",
-      "0.000"
-    ],
-    [
-      "AxisAlignedBB",
-      "0.000"
-    ],
-    [
-      "DefaultAdvisorAdapterRegistry",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "8": [
     [
-      "boardElevator",
-      "0.000"
+      "this",
+      "0.096"
     ],
     [
-      "getAllTableInputs",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "defaultPrecision",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "StackedXYAreaRenderer2",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "CloudWatchRegion",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "StatusData",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "DF_LatticeCell",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "LowLevelLogUtil",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "refCount",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "_clusterGroup",
-      "0.000"
-    ],
-    [
-      "_rounding",
-      "0.000"
-    ],
-    [
-      "createView",
-      "0.000"
-    ],
-    [
-      "mSelectedIndex",
-      "0.000"
-    ],
-    [
-      "EscalationRuleDAO",
-      "0.000"
-    ],
-    [
-      "_theta",
-      "0.000"
-    ],
-    [
-      "setIPSet",
-      "0.000"
-    ],
-    [
-      "OnSetMusicVolume",
-      "0.000"
-    ],
-    [
-      "StatsFactory",
-      "0.000"
-    ],
-    [
-      "MethodOverride",
-      "0.000"
-    ],
-    [
-      "prstClr",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "9": [
     [
-      "DRINK_ITEMS",
-      "0.000"
+      "monitor",
+      "1.000"
     ],
     [
-      "setPropertyDownwards",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "componentToAdd",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "ResultExporter",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getYMicrometers",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "activities",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "bufsize",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "MediaType",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getPatientService",
-      "0.000"
-    ],
-    [
-      "targetDictionary",
-      "0.000"
-    ],
-    [
-      "WadlLink",
-      "0.000"
-    ],
-    [
-      "stateSets",
-      "0.000"
-    ],
-    [
-      "repo",
-      "0.000"
-    ],
-    [
-      "drawPixmap",
-      "0.000"
-    ],
-    [
-      "getEntry",
-      "0.000"
-    ],
-    [
-      "serverToken",
-      "0.000"
-    ],
-    [
-      "HierarchyPort",
-      "0.000"
-    ],
-    [
-      "ArrayOfanyType",
-      "0.000"
-    ],
-    [
-      "notices",
-      "0.000"
-    ],
-    [
-      "ItemStackHelper",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "10": [
     [
-      "isLegal",
-      "0.000"
+      "this",
+      "0.096"
     ],
     [
-      "getServerConnection",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "validateSchema",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "_list",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "L",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "gameType",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getCodePointValue",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "ActivityPage",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "CTPresetShadowEffect",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "RequestedContentTypeResolverBuilder",
-      "0.000"
-    ],
-    [
-      "EMPTY_ARRAY",
-      "0.000"
-    ],
-    [
-      "RsWithBody",
-      "0.000"
-    ],
-    [
-      "CsvPreference",
-      "0.000"
-    ],
-    [
-      "legacySignatureGenerationInfo",
-      "0.000"
-    ],
-    [
-      "getNextVisualPositionFrom",
-      "0.000"
-    ],
-    [
-      "uriAuthority",
-      "0.000"
-    ],
-    [
-      "getFontSize",
-      "0.000"
-    ],
-    [
-      "TokenPair",
-      "0.000"
-    ],
-    [
-      "CookieSpecFactory",
-      "0.000"
-    ],
-    [
-      "m_group",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "11": [
     [
-      "_isClosed",
-      "0.000"
-    ],
-    [
-      "StandardCategorySeriesLabelGenerator",
-      "0.000"
-    ],
-    [
-      "allOf",
-      "0.000"
-    ],
-    [
-      "DEFAULT_PROTOCOL_CHARSET",
-      "0.000"
-    ],
-    [
-      "invalidationList",
-      "0.000"
-    ],
-    [
-      "Launcher",
-      "0.000"
-    ],
-    [
-      "typeCode",
-      "0.000"
-    ],
-    [
-      "getMaxBytes",
-      "0.000"
-    ],
-    [
-      "setDisplayMode",
-      "0.000"
-    ],
-    [
-      "TxnHeader",
-      "0.000"
-    ],
-    [
-      "setupAuthResponse",
-      "0.000"
-    ],
-    [
-      "setSelectedIndex",
-      "0.000"
-    ],
-    [
-      "HudsonTestCase",
-      "0.000"
-    ],
-    [
-      "SVGGraphics2DRuntimeException",
-      "0.000"
-    ],
-    [
-      "getStrategyByFieldId",
-      "0.000"
-    ],
-    [
-      "TimedAction",
-      "0.000"
-    ],
-    [
-      "instanceNames",
-      "0.000"
-    ],
-    [
-      "CompleteWorkflowExecutionDecisionAttributes",
-      "0.000"
-    ],
-    [
-      "suffixesForLocalOutput",
-      "0.000"
-    ],
-    [
-      "localFileData",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "12": [
     [
-      "localProperties",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "httpsPortMappings",
-      "0.000"
+      "searchTerms",
+      "1.000"
     ],
     [
-      "SessionManagerLocalTicket",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "backoffPolicy",
-      "0.000"
+      "add",
+      "0.800"
     ],
     [
-      "Culture",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "makeId",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "XYInterval",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "EllipticCurve",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "OUT",
-      "0.000"
+      "}",
+      "0.726"
     ],
     [
-      "m_IncludeClass",
-      "0.000"
-    ],
-    [
-      "DocFile",
-      "0.000"
-    ],
-    [
-      "findAccount",
-      "0.000"
-    ],
-    [
-      "execution",
-      "0.000"
-    ],
-    [
-      "DefaultValidatedExecutableTypesType",
-      "0.000"
-    ],
-    [
-      "MainEditor",
-      "0.000"
-    ],
-    [
-      "Systrace",
-      "0.000"
-    ],
-    [
-      "ImportKeyPairResult",
-      "0.000"
-    ],
-    [
-      "resourceBundle",
-      "0.000"
-    ],
-    [
-      "depositType",
-      "0.000"
-    ],
-    [
-      "valign",
-      "0.000"
+      "</s>",
+      "0.806"
     ]
   ],
   "13": [
     [
-      "AddOperation",
-      "0.000"
-    ],
-    [
-      "MessageSendFuture",
-      "0.000"
-    ],
-    [
-      "TypeParser",
-      "0.000"
-    ],
-    [
-      "SERVER1",
-      "0.000"
-    ],
-    [
-      "PropertyPermission",
-      "0.000"
-    ],
-    [
-      "rootEvents",
-      "0.000"
-    ],
-    [
-      "pReleventSum",
-      "0.000"
-    ],
-    [
-      "OFAction",
-      "0.000"
-    ],
-    [
-      "valueDeserializer",
-      "0.000"
-    ],
-    [
-      "SO",
-      "0.000"
-    ],
-    [
-      "MotechException",
-      "0.000"
-    ],
-    [
-      "STEPS",
-      "0.000"
-    ],
-    [
-      "bootstrapEndtime",
-      "0.000"
-    ],
-    [
-      "getRole",
-      "0.000"
-    ],
-    [
-      "AgentProcedureTmplRequest",
-      "0.000"
-    ],
-    [
-      "m_I",
-      "0.000"
-    ],
-    [
-      "back",
-      "0.000"
-    ],
-    [
-      "currentSize",
-      "0.000"
-    ],
-    [
-      "lnGamma",
-      "0.000"
-    ],
-    [
-      "PeerWorker",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "14": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      "String",
-      "0.144"
-    ],
-    [
-      "arg0",
-      "0.575"
-    ],
-    [
-      ")",
-      "0.447"
-    ],
-    [
-      "{",
-      "0.661"
-    ],
-    [
-      "return",
-      "0.546"
-    ],
-    [
       "this",
-      "0.095"
+      "0.096"
     ],
     [
       ".",
-      "0.195"
+      "0.984"
     ],
     [
-      "d6free",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "SpatialRelateExpression",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "getKind",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "endTag",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "electedLeader",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "ResponseUtil",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "setMessageHeaders",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "setcd",
-      "0.000"
-    ],
-    [
-      "GATKException",
-      "0.000"
-    ],
-    [
-      "printThisBefore",
-      "0.000"
-    ],
-    [
-      "usersInterceptors",
-      "0.000"
-    ],
-    [
-      "getKaleoAction",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "15": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      "]",
-      "0.001"
-    ],
-    [
-      "hasMetadata",
-      "0.000"
-    ],
-    [
-      "DeleteOptions",
-      "0.000"
-    ],
-    [
-      "serializationNullFormat",
-      "0.000"
-    ],
-    [
-      "MAX_BUFFER",
-      "0.000"
-    ],
-    [
-      "findSubstitute",
-      "0.000"
-    ],
-    [
-      "AssociationList",
-      "0.000"
-    ],
-    [
-      "Angle",
-      "0.000"
-    ],
-    [
-      "PDThreadBead",
-      "0.000"
-    ],
-    [
-      "sim",
-      "0.000"
-    ],
-    [
-      "logWarningToast",
-      "0.000"
-    ],
-    [
-      "DStreamJavaFunctions",
-      "0.000"
-    ],
-    [
-      "FSEditLogOp",
-      "0.000"
-    ],
-    [
-      "IconicsBuilderView",
-      "0.000"
-    ],
-    [
-      "totalDuration",
-      "0.000"
-    ],
-    [
-      "RealmManager",
-      "0.000"
-    ],
-    [
-      "ComboBoxItemPair",
-      "0.000"
-    ],
-    [
-      "miniJavaParser",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "16": [
     [
-      "getEmptyIterator",
-      "0.000"
+      "this",
+      "0.119"
     ],
     [
-      "getNetworkLocation",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "processRollbackState",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "getDirection",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "useNegativeColors",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "BuckSettingsProvider",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "TextEditBasedChange",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "autoDelete",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getFeedsCount",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getTagClass",
-      "0.000"
-    ],
-    [
-      "setCacheReportsDisabledForTest",
-      "0.000"
-    ],
-    [
-      "userDirectoryService",
-      "0.000"
-    ],
-    [
-      "getExactMatchStartingFromRootArc",
-      "0.000"
-    ],
-    [
-      "addFilterCustom",
-      "0.000"
-    ],
-    [
-      "hosts",
-      "0.000"
-    ],
-    [
-      "paddedValue",
-      "0.000"
-    ],
-    [
-      "permissions",
-      "0.000"
-    ],
-    [
-      "numTimeUnits",
-      "0.000"
-    ],
-    [
-      "ignoredAttKeys",
-      "0.000"
-    ],
-    [
-      "FOPException",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "17": [
     [
-      "(",
-      "0.825"
+      "{",
+      "1.000"
     ],
     [
-      "String",
-      "0.144"
+      "return",
+      "0.246"
+    ],
+    [
+      "(",
+      "0.201"
     ],
     [
       "arg0",
-      "0.575"
+      "0.523"
     ],
     [
-      ",",
-      "0.146"
+      "&",
+      "0.203"
     ],
     [
-      "GZIPInputStream",
-      "0.000"
+      "~",
+      "0.122"
     ],
     [
-      "CreateGrantResult",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "getMyBirthday",
-      "0.000"
+      "PRIVATE",
+      "0.600"
     ],
     [
-      "ConfigFileData",
-      "0.000"
+      "|",
+      "1.000"
     ],
     [
-      "mockServerCommunicator",
-      "0.000"
-    ],
-    [
-      "tilebmpFileLastModified",
-      "0.000"
-    ],
-    [
-      "View",
-      "0.000"
-    ],
-    [
-      "IntegerRes",
-      "0.000"
-    ],
-    [
-      "numSplits",
-      "0.000"
-    ],
-    [
-      "truncateHistory",
-      "0.000"
-    ],
-    [
-      "exceptions",
-      "0.000"
-    ],
-    [
-      "writeExternal",
-      "0.000"
-    ],
-    [
-      "configurationAnalyzer",
-      "0.000"
-    ],
-    [
-      "dSocket",
-      "0.000"
-    ],
-    [
-      "createSequence",
-      "0.000"
-    ],
-    [
-      "getConditions",
-      "0.000"
+      "PROTECTED",
+      "0.667"
     ]
   ],
   "18": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
       "{",
-      "0.483"
+      "1.000"
     ],
     [
-      "HsqlProperties",
-      "0.000"
+      "this",
+      "0.427"
     ],
     [
-      "getOutputMediaFile",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "streamChunkId",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "PDAnnotation",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "minimumNodeCountFulfilled",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "AlertStatus",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "isVector",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "PolicyAttributeTypeDescription",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "setName",
-      "0.000"
-    ],
-    [
-      "ModelCreator",
-      "0.000"
-    ],
-    [
-      "getMaxChildCount",
-      "0.000"
-    ],
-    [
-      "NoResultException",
-      "0.000"
-    ],
-    [
-      "getTenantId",
-      "0.000"
-    ],
-    [
-      "PathFileObject",
-      "0.000"
-    ],
-    [
-      "inner",
-      "0.000"
-    ],
-    [
-      "Responder",
-      "0.000"
-    ],
-    [
-      "selectModule",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "19": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      ";",
-      "0.269"
+      "UNKNOWN",
+      "0.000"
     ]
   ],
   "20": [
     [
-      "PropertyMap",
-      "0.000"
-    ],
-    [
-      "mCrop",
-      "0.000"
-    ],
-    [
-      "PropertiesContext",
-      "0.000"
-    ],
-    [
-      "forField",
-      "0.000"
-    ],
-    [
-      "VehicleStatus",
-      "0.000"
-    ],
-    [
-      "CONFLICT_REPLACE",
-      "0.000"
-    ],
-    [
-      "ISPO",
-      "0.000"
-    ],
-    [
-      "longDescription",
-      "0.000"
-    ],
-    [
-      "drawPaint",
-      "0.000"
-    ],
-    [
-      "isSourceLineNumbersEnabled",
-      "0.000"
-    ],
-    [
-      "StoryData",
-      "0.000"
-    ],
-    [
-      "m_siteService",
-      "0.000"
-    ],
-    [
-      "MarshalingTreeNodeImpl",
-      "0.000"
-    ],
-    [
-      "graphicsWidth",
-      "0.000"
-    ],
-    [
-      "isPhased",
-      "0.000"
-    ],
-    [
-      "base64",
-      "0.000"
-    ],
-    [
-      "hitPoint",
-      "0.000"
-    ],
-    [
-      "isFullDay",
-      "0.000"
-    ],
-    [
-      "closeHandle",
-      "0.000"
-    ],
-    [
-      "getContacts",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "21": [
     [
-      "(",
-      "0.419"
-    ],
-    [
-      "BundleContext",
-      "0.001"
-    ],
-    [
-      "DEVELOPMENT",
-      "0.000"
-    ],
-    [
-      "RuntimeInfo",
-      "0.000"
-    ],
-    [
-      "addSyncDLFileVersionDiff",
-      "0.000"
-    ],
-    [
-      "fetchPhoneByUuidAndCompanyId",
-      "0.000"
-    ],
-    [
-      "Elf",
-      "0.000"
-    ],
-    [
-      "RealmManager",
-      "0.000"
-    ],
-    [
-      "canDeleteDrafts",
-      "0.000"
-    ],
-    [
-      "getTypeName",
-      "0.000"
-    ],
-    [
-      "invalidateAll",
-      "0.000"
-    ],
-    [
-      "callMetaDataContext",
-      "0.000"
-    ],
-    [
-      "__getObjectValue",
-      "0.000"
-    ],
-    [
-      "doDeserialize",
-      "0.000"
-    ],
-    [
-      "stageName",
-      "0.000"
-    ],
-    [
-      "FeatureSet",
-      "0.000"
-    ],
-    [
-      "AbstractFeatureModule",
-      "0.000"
-    ],
-    [
-      "libraryVersion",
-      "0.000"
-    ],
-    [
-      "jmsTemplate",
-      "0.000"
-    ],
-    [
-      "unread",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "22": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.119"
     ],
     [
-      ")",
-      "0.577"
+      ".",
+      "0.984"
+    ],
+    [
+      "name",
+      "0.033"
     ],
     [
       ";",
-      "0.269"
+      "0.945"
+    ],
+    [
+      "}",
+      "1.000"
+    ],
+    [
+      "</s>",
+      "1.000"
+    ],
+    [
+      "</s>",
+      "1.000"
+    ],
+    [
+      "</s>",
+      "1.000"
+    ],
+    [
+      "</s>",
+      "1.000"
+    ],
+    [
+      "</s>",
+      "1.000"
     ]
   ],
   "23": [
     [
-      "entityMode",
-      "0.000"
+      "this",
+      "0.119"
     ],
     [
-      "getAdvance",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "liferaylms",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "adminEmailsDb",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "_objValue",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "augmentTokenList",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "startServer",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "JIRAAction",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "b64UrlEncode",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "networkObservers",
-      "0.000"
-    ],
-    [
-      "designation",
-      "0.000"
-    ],
-    [
-      "CreationalContext",
-      "0.000"
-    ],
-    [
-      "QuestionScoresBean",
-      "0.000"
-    ],
-    [
-      "GraphUtil",
-      "0.000"
-    ],
-    [
-      "INITIAL_SHARDS",
-      "0.000"
-    ],
-    [
-      "getUnRegistrationHandlerList",
-      "0.000"
-    ],
-    [
-      "BYTE_LENGTH",
-      "0.000"
-    ],
-    [
-      "pathVariables",
-      "0.000"
-    ],
-    [
-      "makeFallBack",
-      "0.000"
-    ],
-    [
-      "GroovyRequestFixture",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "24": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.119"
     ],
     [
-      "saveBitmap",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "_putHeader",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "DescriptionModel",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "masterId",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "newAutoName",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "SoapMessage",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "AlertHistoryEntity",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getUpperBound",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "mimeType",
-      "0.000"
-    ],
-    [
-      "seen",
-      "0.000"
-    ],
-    [
-      "HOST_IPV4",
-      "0.000"
-    ],
-    [
-      "getPermissionChecker",
-      "0.000"
-    ],
-    [
-      "ContenuCase",
-      "0.000"
-    ],
-    [
-      "VALUE1",
-      "0.000"
-    ],
-    [
-      "PacketBuilder",
-      "0.000"
-    ],
-    [
-      "PowerPK",
-      "0.000"
-    ],
-    [
-      "role",
-      "0.000"
-    ],
-    [
-      "JDBCUtil",
-      "0.000"
-    ],
-    [
-      "LinkedList",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "25": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      ";",
-      "0.269"
+      "UNKNOWN",
+      "0.000"
     ]
   ],
   "26": [
     [
-      "ServerCertificateMetadata",
-      "0.000"
+      ">",
+      "1.000"
     ],
     [
-      "0xD",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "ObjectRenderer",
-      "0.000"
+      ")",
+      "0.600"
     ],
     [
-      "FBottom",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "Input",
-      "0.000"
+      "return",
+      "0.467"
     ],
     [
-      "timeline",
-      "0.000"
+      "new",
+      "0.247"
     ],
     [
-      "soot",
-      "0.000"
+      "ResultMatcher",
+      "0.043"
     ],
     [
-      "RVFDatum",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "getColumnCount",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "OnDemandRenderer",
-      "0.000"
-    ],
-    [
-      "COMPONENT",
-      "0.000"
-    ],
-    [
-      "templateParams",
-      "0.000"
-    ],
-    [
-      "P",
-      "0.000"
-    ],
-    [
-      "getCacheTimeTakenNanos",
-      "0.000"
-    ],
-    [
-      "ValidationListTranslatedData",
-      "0.000"
-    ],
-    [
-      "getSourceDimensions",
-      "0.000"
-    ],
-    [
-      "threadContext",
-      "0.000"
-    ],
-    [
-      "setServiceComponentId",
-      "0.000"
-    ],
-    [
-      "mCurrentCallState",
-      "0.000"
-    ],
-    [
-      "CONTENT_BUFFER_SIZE",
-      "0.000"
+      "{",
+      "1.000"
     ]
   ],
   "27": [
     [
-      "(",
-      "0.825"
+      "V",
+      "0.818"
     ],
     [
-      "String",
-      "0.144"
-    ],
-    [
-      "arg0",
-      "0.575"
+      "arg1",
+      "1.000"
     ],
     [
       ")",
-      "0.447"
+      "0.500"
     ],
     [
-      "sentence",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "ingestedUntil",
-      "0.000"
+      "return",
+      "0.257"
     ],
     [
-      "ExpectedCount",
-      "0.000"
+      "1",
+      "0.333"
     ],
     [
-      "LicenseDocumentReference",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "getLogo",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "stringForm",
-      "0.000"
+      "else",
+      "0.400"
     ],
     [
-      "WarningMessage",
-      "0.000"
-    ],
-    [
-      "CardVerifiableCertificate",
-      "0.000"
-    ],
-    [
-      "ActivityExecutionStatus",
-      "0.000"
-    ],
-    [
-      "sealBase",
-      "0.000"
-    ],
-    [
-      "getFont",
-      "0.000"
-    ],
-    [
-      "IIdentifierIssuingAgency",
-      "0.000"
-    ],
-    [
-      "setLastExportTime",
-      "0.000"
-    ],
-    [
-      "GeofenceHardwareMonitorEvent",
-      "0.000"
-    ],
-    [
-      "setSuccessful",
-      "0.000"
-    ],
-    [
-      "checkPasswordLength",
-      "0.000"
+      "{",
+      "0.556"
     ]
   ],
   "28": [
     [
-      "lots",
-      "0.000"
-    ],
-    [
-      "sadd",
-      "0.000"
-    ],
-    [
-      "m_Dataset",
-      "0.000"
-    ],
-    [
-      "LocalDateTime",
-      "0.000"
-    ],
-    [
-      "taskStatus",
-      "0.000"
-    ],
-    [
-      "deviceAddress",
-      "0.000"
-    ],
-    [
-      "myRadio",
-      "0.000"
-    ],
-    [
-      "ID3_TEXT_ENCODING_UTF_8",
-      "0.000"
-    ],
-    [
-      "Airport",
-      "0.000"
-    ],
-    [
-      "mediate",
-      "0.000"
-    ],
-    [
-      "getKeystoreAlias",
-      "0.000"
-    ],
-    [
-      "AstType",
-      "0.000"
-    ],
-    [
-      "WsFederationAttributeMutator",
-      "0.000"
-    ],
-    [
-      "timeInfo",
-      "0.000"
-    ],
-    [
-      "findByID",
-      "0.000"
-    ],
-    [
-      "routingInput",
-      "0.000"
-    ],
-    [
-      "getNotMgr",
-      "0.000"
-    ],
-    [
-      "InitialInfoType",
-      "0.000"
-    ],
-    [
-      "OAuthProvider",
-      "0.000"
-    ],
-    [
-      "m_ChecksTurnedOff",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "29": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.096"
     ],
     [
-      ")",
-      "0.577"
+      ".",
+      "0.984"
     ],
     [
-      "{",
-      "0.483"
+      "name",
+      "0.033"
     ],
     [
-      "return",
-      "0.546"
+      ";",
+      "0.945"
     ],
     [
-      "(",
-      "0.050"
+      "}",
+      "1.000"
     ],
     [
-      "Enumeration",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "requires",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "P2",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "ServerMethodDefinition",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "groupPort",
-      "0.000"
-    ],
-    [
-      "LoggerInterceptor",
-      "0.000"
-    ],
-    [
-      "SchedulerService",
-      "0.000"
-    ],
-    [
-      "ch",
-      "0.000"
-    ],
-    [
-      "gconf_client_get_string",
-      "0.000"
-    ],
-    [
-      "maxIdle",
-      "0.000"
-    ],
-    [
-      "equity",
-      "0.000"
-    ],
-    [
-      "AssetUtil",
-      "0.000"
-    ],
-    [
-      "s_aConf",
-      "0.000"
-    ],
-    [
-      "512",
-      "0.000"
-    ],
-    [
-      "Usuario",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "30": [
     [
-      "vinaParams",
-      "0.000"
+      "String",
+      "0.164"
     ],
     [
-      "typeReminder",
-      "0.000"
+      "loc0",
+      "0.917"
     ],
     [
-      "xDim",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "buildPartial",
-      "0.000"
+      "``",
+      "0.217"
     ],
     [
-      "STATE_Running",
-      "0.000"
+      "srini_string",
+      "1.000"
     ],
     [
-      "ConditionalOperator",
-      "0.000"
+      "''",
+      "1.000"
     ],
     [
-      "popContextOnNextPauseCounter",
-      "0.000"
+      ";",
+      "0.728"
     ],
     [
-      "NOTIFICATION_TOPIC_BROADCAST",
-      "0.000"
+      "}",
+      "0.108"
     ],
     [
-      "updateGist",
-      "0.000"
+      "else",
+      "0.277"
     ],
     [
-      "IoBufferEx",
-      "0.000"
-    ],
-    [
-      "getCallingClass",
-      "0.000"
-    ],
-    [
-      "x509Certificate",
-      "0.000"
-    ],
-    [
-      "Serializable",
-      "0.000"
-    ],
-    [
-      "UIObject",
-      "0.000"
-    ],
-    [
-      "m_table",
-      "0.000"
-    ],
-    [
-      "addSource",
-      "0.000"
-    ],
-    [
-      "myWindowName",
-      "0.000"
-    ],
-    [
-      "DEFAULT_PORT_WIRED",
-      "0.000"
-    ],
-    [
-      "m_autoDdl",
-      "0.000"
-    ],
-    [
-      "scriptStart",
-      "0.000"
+      "{",
+      "0.866"
     ]
   ],
   "31": [
     [
-      "UserSession",
-      "0.000"
+      "this",
+      "0.119"
     ],
     [
-      "getLowerCaseString",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "MAX_POINTER",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "bldAsOne",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "getServiceComponent",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "GetMessagesTask",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Nullable",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "TransformableTo",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "editComment",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "VALUE_OFFSET",
-      "0.000"
-    ],
-    [
-      "Clouds",
-      "0.000"
-    ],
-    [
-      "Combo",
-      "0.000"
-    ],
-    [
-      "getTypeInfo",
-      "0.000"
-    ],
-    [
-      "extendSelection",
-      "0.000"
-    ],
-    [
-      "QNAME_DELIMITER",
-      "0.000"
-    ],
-    [
-      "ApiConfiguration",
-      "0.000"
-    ],
-    [
-      "getEndMeasureIndex",
-      "0.000"
-    ],
-    [
-      "ContentModel",
-      "0.000"
-    ],
-    [
-      "portletEntityId",
-      "0.000"
-    ],
-    [
-      "_autoIncMode",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "32": [
     [
-      "getLockInfo",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "JemRuntimeException",
-      "0.000"
+      "return",
+      "0.692"
     ],
     [
-      "BUSY",
-      "0.000"
+      "this",
+      "0.098"
     ],
     [
-      "createClassLoader",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "OsgiManifest",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "ObjectAnimatorCompatLollipop",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "oldnow",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "SOAPHeaderElement",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "CollectionType",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "J3dI18N",
-      "0.000"
-    ],
-    [
-      "SubTab",
-      "0.000"
-    ],
-    [
-      "forJavaScriptSource",
-      "0.000"
-    ],
-    [
-      "acceptUrl",
-      "0.000"
-    ],
-    [
-      "serviceDigitalIdentity",
-      "0.000"
-    ],
-    [
-      "PsiFile",
-      "0.000"
-    ],
-    [
-      "shippingInfo",
-      "0.000"
-    ],
-    [
-      "ChromeBrowserProvider",
-      "0.000"
-    ],
-    [
-      "savedSearch",
-      "0.000"
-    ],
-    [
-      "ALERT_TIMEOUT",
-      "0.000"
-    ],
-    [
-      "childName",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "33": [
     [
-      "renderer2D",
-      "0.000"
+      "status",
+      "0.500"
     ],
     [
-      "VALID_DB_TABLE_NAME_PATTERN_1",
-      "0.000"
+      ";",
+      "0.885"
     ],
     [
-      "retrieveFromBilling",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "isGetNextLastResultUpToDate",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Angle",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "traverseEmptyCells",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Db",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "SAMBinaryTagAndValue",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Interviewer",
-      "0.000"
-    ],
-    [
-      "arrayNumber",
-      "0.000"
-    ],
-    [
-      "SubjectInfo",
-      "0.000"
-    ],
-    [
-      "binaryContent",
-      "0.000"
-    ],
-    [
-      "GenericBeanDefinition",
-      "0.000"
-    ],
-    [
-      "upperInclusive",
-      "0.000"
-    ],
-    [
-      "getPageSizeBytes",
-      "0.000"
-    ],
-    [
-      "variant",
-      "0.000"
-    ],
-    [
-      "setTagsList",
-      "0.000"
-    ],
-    [
-      "ISelection",
-      "0.000"
-    ],
-    [
-      "hm",
-      "0.000"
-    ],
-    [
-      "getImageFileUrl",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "34": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
       "{",
-      "0.483"
-    ],
-    [
-      "return",
-      "0.546"
+      "1.000"
     ],
     [
       "this",
-      "0.095"
+      "0.199"
     ],
     [
-      "Container",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "dlistId",
-      "0.000"
+      "duration",
+      "0.133"
     ],
     [
-      "listToOriginalTextString",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "getString",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "MessageIterator",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "family",
-      "0.000"
+      "ea",
+      "0.857"
     ],
     [
-      "assertj",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "SUFFIX_DART",
-      "0.000"
-    ],
-    [
-      "addDataToMap",
-      "0.000"
-    ],
-    [
-      "CCombo",
-      "0.000"
-    ],
-    [
-      "__xOffset",
-      "0.000"
-    ],
-    [
-      "parseProblemGlyphs",
-      "0.000"
-    ],
-    [
-      "SkylarkProviderValidationUtil",
-      "0.000"
-    ],
-    [
-      "ReactBridge",
-      "0.000"
-    ],
-    [
-      "xHigh",
-      "0.000"
+      "add",
+      "1.000"
     ]
   ],
   "35": [
     [
-      "Configurator",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "KeyFactory",
-      "0.000"
+      "clear",
+      "1.000"
     ],
     [
-      "Errors",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "setTotalSize",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "addEventToQueue",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "AjaxProgress",
-      "0.000"
+      "sqlLookup",
+      "1.000"
     ],
     [
-      "setLabel",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "SsaMethod",
-      "0.000"
+      "clear",
+      "1.000"
     ],
     [
-      "mAuthInfo",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "JsonProperty",
-      "0.000"
-    ],
-    [
-      "EventManager",
-      "0.000"
-    ],
-    [
-      "IOContext",
-      "0.000"
-    ],
-    [
-      "HTTPS_SCHEME",
-      "0.000"
-    ],
-    [
-      "parseDocument",
-      "0.000"
-    ],
-    [
-      "LengthConstraintType",
-      "0.000"
-    ],
-    [
-      "applicationPath",
-      "0.000"
-    ],
-    [
-      "DefaultResponseCreator",
-      "0.000"
-    ],
-    [
-      "sSelectedDebugPort",
-      "0.000"
-    ],
-    [
-      "requestStatusId",
-      "0.000"
-    ],
-    [
-      "toBinaryString",
-      "0.000"
+      ")",
+      "1.000"
     ]
   ],
   "36": [
     [
+      "boolean",
+      "1.000"
+    ],
+    [
+      "arg1",
+      "1.000"
+    ],
+    [
+      ")",
+      "1.000"
+    ],
+    [
+      "{",
+      "1.000"
+    ],
+    [
+      "return",
+      "0.234"
+    ],
+    [
+      "new",
+      "0.083"
+    ],
+    [
+      "TransferableProxy",
+      "0.200"
+    ],
+    [
       "(",
-      "0.343"
+      "1.000"
     ],
     [
-      "String",
-      "0.144"
+      "arg0",
+      "1.000"
     ],
     [
-      "readRawBytes",
-      "0.000"
-    ],
-    [
-      "removeEntry",
-      "0.000"
-    ],
-    [
-      "TaskManager",
-      "0.000"
-    ],
-    [
-      "printHOA",
-      "0.000"
-    ],
-    [
-      "operatorLevelCachingDescription",
-      "0.000"
-    ],
-    [
-      "hide",
-      "0.000"
-    ],
-    [
-      "uniqueContentOnly",
-      "0.000"
-    ],
-    [
-      "VolumeProviderCompatApi21",
-      "0.000"
-    ],
-    [
-      "OUT_PATH",
-      "0.000"
-    ],
-    [
-      "AUDIO_PATH",
-      "0.000"
-    ],
-    [
-      "getListForPlugin",
-      "0.000"
-    ],
-    [
-      "MultipartEntity",
-      "0.000"
-    ],
-    [
-      "getPayload",
-      "0.000"
-    ],
-    [
-      "hdfs",
-      "0.000"
-    ],
-    [
-      "99d",
-      "0.000"
-    ],
-    [
-      "getItemsCount",
-      "0.000"
-    ],
-    [
-      "outputJar",
-      "0.000"
-    ],
-    [
-      "handlerConnectionsList",
-      "0.000"
+      ",",
+      "1.000"
     ]
   ],
   "37": [
     [
-      "JivePropertiesExtension",
-      "0.000"
+      ")",
+      "0.597"
     ],
     [
-      "highlightResults",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "messageProcessor",
-      "0.000"
+      "return",
+      "0.274"
     ],
     [
-      "ScreenViewport",
-      "0.000"
+      "new",
+      "0.222"
     ],
     [
-      "updateInterval",
-      "0.000"
+      "File",
+      "0.090"
     ],
     [
-      "inDomain",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "BiFunction",
-      "0.000"
+      "arg0",
+      "0.484"
     ],
     [
-      "falseString",
-      "0.000"
+      ")",
+      "0.467"
     ],
     [
-      "binName",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "TaskConstraints",
-      "0.000"
-    ],
-    [
-      "BtCalendarView",
-      "0.000"
-    ],
-    [
-      "PersonContextualLifecycle",
-      "0.000"
-    ],
-    [
-      "nodeSearch",
-      "0.000"
-    ],
-    [
-      "bookDao",
-      "0.000"
-    ],
-    [
-      "executorMemoryManager",
-      "0.000"
-    ],
-    [
-      "step4",
-      "0.000"
-    ],
-    [
-      "nativeStopPrefetching",
-      "0.000"
-    ],
-    [
-      "getPackageName",
-      "0.000"
-    ],
-    [
-      "HivePartitionDataset",
-      "0.000"
-    ],
-    [
-      "mMVPComputed",
-      "0.000"
+      "getCanonicalPath",
+      "0.750"
     ]
   ],
   "38": [
     [
-      "recovery",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "getRegisters",
-      "0.000"
+      "handler",
+      "0.046"
     ],
     [
-      "urisForCredentials",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "checkInteger",
-      "0.000"
+      "cancel",
+      "0.667"
     ],
     [
-      "LocalsArray",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "CLASS_DEF",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "addValue",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "_cliqueGraph",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "9L",
-      "0.000"
+      "</s>",
+      "0.440"
     ],
     [
-      "setPattern",
-      "0.000"
-    ],
-    [
-      "clearBlockMarks",
-      "0.000"
-    ],
-    [
-      "MessageUid",
-      "0.000"
-    ],
-    [
-      "STATISTIC_BLOG_ARTICLE_COUNT",
-      "0.000"
-    ],
-    [
-      "DEUtil",
-      "0.000"
-    ],
-    [
-      "MSG_AUTHORITY_DELETE_FAILURE",
-      "0.000"
-    ],
-    [
-      "totalHoldingsLoaded",
-      "0.000"
-    ],
-    [
-      "recommend",
-      "0.000"
-    ],
-    [
-      "isTokenVisible",
-      "0.000"
-    ],
-    [
-      "newWidevineInstance",
-      "0.000"
-    ],
-    [
-      "pupAge",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "39": [
     [
-      "lqdtyNumSecurities",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "typeStr",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "ItemCountException",
-      "0.000"
+      "this",
+      "1.000"
     ],
     [
-      "endLine",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "CONTINUE_ON_ERROR",
-      "0.000"
+      "contentType",
+      "0.500"
     ],
     [
-      "DepartmentDAO",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "ModelerCore",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "atEoln",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "ERXStringBufferRestResponse",
-      "0.000"
+      "}",
+      "0.875"
     ],
     [
-      "DLLManager",
-      "0.000"
-    ],
-    [
-      "WSHelper",
-      "0.000"
-    ],
-    [
-      "Vector2",
-      "0.000"
-    ],
-    [
-      "callable",
-      "0.000"
-    ],
-    [
-      "just",
-      "0.000"
-    ],
-    [
-      "mCompressQuality",
-      "0.000"
-    ],
-    [
-      "policyAttributeTypeDescriptions",
-      "0.000"
-    ],
-    [
-      "isProvider",
-      "0.000"
-    ],
-    [
-      "convertToValue",
-      "0.000"
-    ],
-    [
-      "isDelimiter",
-      "0.000"
-    ],
-    [
-      "CustomerFeedPage",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "40": [
     [
-      "EventInformation",
-      "0.000"
-    ],
-    [
-      "clientToken",
-      "0.000"
-    ],
-    [
-      "RNAIHairpinCache",
-      "0.000"
-    ],
-    [
-      "MultipleConnection1Impl",
-      "0.000"
-    ],
-    [
-      "ImagePlaneDetails",
-      "0.000"
-    ],
-    [
-      "isValidIBAN",
-      "0.000"
-    ],
-    [
-      "drawBar",
-      "0.000"
-    ],
-    [
-      "LineSegment",
-      "0.000"
-    ],
-    [
-      "viewingCache",
-      "0.000"
-    ],
-    [
-      "ChatFramework",
-      "0.000"
-    ],
-    [
-      "textProcessor",
-      "0.000"
-    ],
-    [
-      "systemModstamp",
-      "0.000"
-    ],
-    [
-      "to_byte_hex_string",
-      "0.000"
-    ],
-    [
-      "LoadBalancer",
-      "0.000"
-    ],
-    [
-      "ensureAvailable",
-      "0.000"
-    ],
-    [
-      "convertToMap",
-      "0.000"
-    ],
-    [
-      "updateStats",
-      "0.000"
-    ],
-    [
-      "DEFAULT_JOIN_SEPARATOR",
-      "0.000"
-    ],
-    [
-      "getCommit",
-      "0.000"
-    ],
-    [
-      "centroids",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "41": [
     [
-      "direction",
-      "0.000"
-    ],
-    [
-      "isCommentLine",
-      "0.000"
-    ],
-    [
-      "hasDefined",
-      "0.000"
-    ],
-    [
-      "SUPPRESS_RUNTIME_EXCEPTIONS",
-      "0.000"
-    ],
-    [
-      "secureRandomInstance",
-      "0.000"
-    ],
-    [
-      "MiscUtilities",
-      "0.000"
-    ],
-    [
-      "ye",
-      "0.000"
-    ],
-    [
-      "LogChute",
-      "0.000"
-    ],
-    [
-      "typeObjectId",
-      "0.000"
-    ],
-    [
-      "namedOptionActions",
-      "0.000"
-    ],
-    [
-      "ClearArraySize",
-      "0.000"
-    ],
-    [
-      "scheduleWithFixedDelay",
-      "0.000"
-    ],
-    [
-      "blobData",
-      "0.000"
-    ],
-    [
-      "ConfigurablePropertyAccessor",
-      "0.000"
-    ],
-    [
-      "setRect",
-      "0.000"
-    ],
-    [
-      "getChi2",
-      "0.000"
-    ],
-    [
-      "getFirstStringFieldNameEndsWithFromClass",
-      "0.000"
-    ],
-    [
-      "setBookingId",
-      "0.000"
-    ],
-    [
-      "getSectionArray",
-      "0.000"
-    ],
-    [
-      "DEBUG_FLAGS",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "42": [
     [
-      "mRemoteControlClient",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "ComponentPropertyHolder",
-      "0.000"
+      "if",
+      "0.500"
     ],
     [
-      "writeUnderHandler",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "PersistenceUnitTransactionType",
-      "0.000"
+      "mConnection",
+      "0.333"
     ],
     [
-      "DefaultNHttpClientConnection",
-      "0.000"
+      "==",
+      "1.000"
     ],
     [
-      "setDTR",
-      "0.000"
+      "null",
+      "1.000"
     ],
     [
-      "mControllerListener",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "ConnectionRequestInfo",
-      "0.000"
+      "return",
+      "1.000"
     ],
     [
-      "QueueUnavailableException",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "PatchsetCreated",
-      "0.000"
-    ],
-    [
-      "SAMTodoItem",
-      "0.000"
-    ],
-    [
-      "VALUE_SEP_LONG",
-      "0.000"
-    ],
-    [
-      "mColumnIndex",
-      "0.000"
-    ],
-    [
-      "Cell",
-      "0.000"
-    ],
-    [
-      "convertNewlines",
-      "0.000"
-    ],
-    [
-      "wasSetSessionContextMethodInvoked",
-      "0.000"
-    ],
-    [
-      "exited",
-      "0.000"
-    ],
-    [
-      "ImportRecord",
-      "0.000"
-    ],
-    [
-      "removeUser",
-      "0.000"
-    ],
-    [
-      "selectedPet",
-      "0.000"
+      "arg0",
+      "1.000"
     ]
   ],
   "43": [
     [
-      "WebSeparator",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "convertFromImpl",
-      "0.000"
+      "this",
+      "0.566"
     ],
     [
-      "LmsPrefs",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "analyzeStructure",
-      "0.000"
+      "enabled",
+      "0.022"
     ],
     [
-      "fromNegativeInfinityToPositiveInfinity",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "_ticket",
-      "0.000"
+      "arg0",
+      "0.941"
     ],
     [
-      "WebSocketHandler",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "v201411",
-      "0.000"
+      "}",
+      "0.471"
     ],
     [
-      "DatasetRenderingOrder",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "bNestedTransaction",
-      "0.000"
-    ],
-    [
-      "destroyProxy",
-      "0.000"
-    ],
-    [
-      "validateQualifiedIdentifier",
-      "0.000"
-    ],
-    [
-      "paramAccess",
-      "0.000"
-    ],
-    [
-      "130",
-      "0.000"
-    ],
-    [
-      "RuleConfiguredTargetBuilder",
-      "0.000"
-    ],
-    [
-      "DENSITY_DEFAULT",
-      "0.000"
-    ],
-    [
-      "noResourceId",
-      "0.000"
-    ],
-    [
-      "m_Connection",
-      "0.000"
-    ],
-    [
-      "CRITICAL",
-      "0.000"
-    ],
-    [
-      "ExternalDatasetImpl",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "44": [
     [
+      "{",
+      "1.000"
+    ],
+    [
+      "return",
+      "0.262"
+    ],
+    [
+      "arg0",
+      "0.295"
+    ],
+    [
+      ".",
+      "0.867"
+    ],
+    [
+      "endsWith",
+      "0.054"
+    ],
+    [
       "(",
-      "0.825"
+      "1.000"
+    ],
+    [
+      "mapCommandButtonId",
+      "0.800"
     ],
     [
       ")",
-      "0.577"
+      "1.000"
     ],
     [
       ";",
-      "0.269"
+      "1.000"
+    ],
+    [
+      "}",
+      "0.923"
     ]
   ],
   "45": [
     [
-      "(",
-      "0.419"
+      "{",
+      "1.000"
     ],
     [
-      "java",
-      "0.010"
+      "this",
+      "0.427"
     ],
     [
-      "ExceptionUtils",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "parsePragma",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "getInterface",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "MODIFIERS",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "findMatching",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "updateEmailAddress",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "sequenceId",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "GetEndpointAttributesResult",
-      "0.000"
-    ],
-    [
-      "interproc",
-      "0.000"
-    ],
-    [
-      "MsgVpnRestDeliveryPointQueueBinding",
-      "0.000"
-    ],
-    [
-      "stride",
-      "0.000"
-    ],
-    [
-      "distributedTestSupport",
-      "0.000"
-    ],
-    [
-      "AffineTransformationBuilder",
-      "0.000"
-    ],
-    [
-      "ListDirectDebitRequest",
-      "0.000"
-    ],
-    [
-      "onSuccessCallback",
-      "0.000"
-    ],
-    [
-      "m_eventType",
-      "0.000"
-    ],
-    [
-      "hasNextProxy",
-      "0.000"
-    ],
-    [
-      "PeriodValue",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "46": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      "{",
-      "0.483"
-    ],
-    [
-      "return",
-      "0.546"
-    ],
-    [
-      "_userTracker",
-      "0.000"
-    ],
-    [
-      "remoteAuthorizationManager",
-      "0.000"
-    ],
-    [
-      "XRegistryKey",
-      "0.000"
-    ],
-    [
-      "handleURLUpload",
-      "0.000"
-    ],
-    [
-      "BridgeOptions",
-      "0.000"
-    ],
-    [
-      "finalizeRecord",
-      "0.000"
-    ],
-    [
-      "Retrofit",
-      "0.000"
-    ],
-    [
-      "CSVRecord",
-      "0.000"
-    ],
-    [
-      "addressId",
-      "0.000"
-    ],
-    [
-      "setRandomBackOff",
-      "0.000"
-    ],
-    [
-      "FLAG_POST",
-      "0.000"
-    ],
-    [
-      "redirectPatterns",
-      "0.000"
-    ],
-    [
-      "ConnectedStreams",
-      "0.000"
-    ],
-    [
-      "ByteArrayDecodingState",
-      "0.000"
-    ],
-    [
-      "COLORBLIND_TYPE",
-      "0.000"
-    ],
-    [
-      "culture",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "47": [
     [
-      "FILE_PATH",
-      "0.000"
+      "this",
+      "0.096"
     ],
     [
-      "MockHttpServletRequestBuilder",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "CORRECT_ROLE_AND_UNDEPLOY",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "Processor",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "doProcessSoapHeader",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "componentStatus",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "CtHeaderRs",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "singleClickView",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Line2D",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "nameMapper",
-      "0.000"
-    ],
-    [
-      "NORM",
-      "0.000"
-    ],
-    [
-      "MockMvcBuilders",
-      "0.000"
-    ],
-    [
-      "getCreditCardUseDateForTesting",
-      "0.000"
-    ],
-    [
-      "initParam",
-      "0.000"
-    ],
-    [
-      "jobInfo",
-      "0.000"
-    ],
-    [
-      "testBundle",
-      "0.000"
-    ],
-    [
-      "Offline",
-      "0.000"
-    ],
-    [
-      "RolesPrintingServletUtils",
-      "0.000"
-    ],
-    [
-      "not_applicable",
-      "0.000"
-    ],
-    [
-      "ExtendedExecutionResult",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "48": [
     [
-      "refillComposedArea",
-      "0.000"
-    ],
-    [
-      "measureIndentUnits",
-      "0.000"
-    ],
-    [
-      "hasFlag",
-      "0.000"
-    ],
-    [
-      "TrustedSigners",
-      "0.000"
-    ],
-    [
-      "newMBeanServer",
-      "0.000"
-    ],
-    [
-      "m_aFont",
-      "0.000"
-    ],
-    [
-      "bank",
-      "0.000"
-    ],
-    [
-      "baseType",
-      "0.000"
-    ],
-    [
-      "changeEvent",
-      "0.000"
-    ],
-    [
-      "stageKeys",
-      "0.000"
-    ],
-    [
-      "Animator",
-      "0.000"
-    ],
-    [
-      "Stash",
-      "0.000"
-    ],
-    [
-      "C",
-      "0.000"
-    ],
-    [
-      "HashAlgorithm",
-      "0.000"
-    ],
-    [
-      "create_exception_tc",
-      "0.000"
-    ],
-    [
-      "getMsg",
-      "0.000"
-    ],
-    [
-      "Documentation",
-      "0.000"
-    ],
-    [
-      "findNext",
-      "0.000"
-    ],
-    [
-      "iLastAccess",
-      "0.000"
-    ],
-    [
-      "illumination",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "49": [
     [
-      "(",
-      "0.566"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
       "{",
-      "0.483"
+      "1.000"
     ],
     [
       "this",
-      "0.110"
+      "0.471"
     ],
     [
-      "LineRenderer3D",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "odkazVytah",
-      "0.000"
+      "entityId",
+      "0.375"
     ],
     [
-      "getViewURIInternal",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "releaseTiles",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "setEntropy",
-      "0.000"
+      ";",
+      "0.571"
     ],
     [
-      "getNextNode",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "XMLDataObjectAssociationType",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "lastModifiedTime",
-      "0.000"
-    ],
-    [
-      "hasExtension",
-      "0.000"
-    ],
-    [
-      "getKeyIdToString",
-      "0.000"
-    ],
-    [
-      "CConnection",
-      "0.000"
-    ],
-    [
-      "sheetFilters",
-      "0.000"
-    ],
-    [
-      "cacheEventLogger",
-      "0.000"
-    ],
-    [
-      "ATTRIBUTE_NAME",
-      "0.000"
-    ],
-    [
-      "NetworkInformation",
-      "0.000"
-    ],
-    [
-      "RootNode",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "50": [
     [
-      "ScanFailureException",
-      "0.000"
+      ")",
+      "0.516"
     ],
     [
-      "RETHROW",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "splashScreen",
-      "0.000"
+      "return",
+      "0.700"
     ],
     [
-      "mPreciseDisconnectCause",
-      "0.000"
+      "this",
+      "0.103"
     ],
     [
-      "registrationDataService",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "GroupCommand",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "ControlFlowGraph",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "logical",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "executeCmd",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "IDELabel",
-      "0.000"
-    ],
-    [
-      "EXCLUDE",
-      "0.000"
-    ],
-    [
-      "isScriptValid",
-      "0.000"
-    ],
-    [
-      "NO_MORE_ORDS",
-      "0.000"
-    ],
-    [
-      "eventCode",
-      "0.000"
-    ],
-    [
-      "m_initer",
-      "0.000"
-    ],
-    [
-      "quote",
-      "0.000"
-    ],
-    [
-      "setExtensions",
-      "0.000"
-    ],
-    [
-      "outport",
-      "0.000"
-    ],
-    [
-      "accumulateDataForFactData",
-      "0.000"
-    ],
-    [
-      "BigArrays",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "51": [
     [
-      "ReplayedPlace",
-      "0.000"
+      "String",
+      "0.373"
     ],
     [
-      "isEscaped",
-      "0.000"
+      "arg1",
+      "1.000"
     ],
     [
-      "_configAndWriteValue",
-      "0.000"
+      ")",
+      "0.640"
     ],
     [
-      "after",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "ccbsComponentId",
-      "0.000"
+      "if",
+      "0.222"
     ],
     [
-      "AuditProjection",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "manualCreditInfo",
-      "0.000"
+      "arg0",
+      "0.285"
     ],
     [
-      "getDistanceMeasure",
-      "0.000"
+      "==",
+      "0.503"
     ],
     [
-      "mBuffers",
-      "0.000"
+      "null",
+      "0.885"
     ],
     [
-      "defaultConfiguration",
-      "0.000"
-    ],
-    [
-      "isPressed",
-      "0.000"
-    ],
-    [
-      "getProxy",
-      "0.000"
-    ],
-    [
-      "savePlatformSetting",
-      "0.000"
-    ],
-    [
-      "indexNameClean",
-      "0.000"
-    ],
-    [
-      "getFileExtensions",
-      "0.000"
-    ],
-    [
-      "makeJavaArrayWrapperException",
-      "0.000"
-    ],
-    [
-      "myUnbalancedBracesRecoveryTokens",
-      "0.000"
-    ],
-    [
-      "TransportClient",
-      "0.000"
-    ],
-    [
-      "nativeOnData",
-      "0.000"
-    ],
-    [
-      "executionDurationInMs",
-      "0.000"
+      ")",
+      "0.892"
     ]
   ],
   "52": [
     [
-      "(",
-      "0.343"
-    ],
-    [
-      "String",
-      "0.144"
-    ],
-    [
-      "arg0",
-      "0.575"
-    ],
-    [
-      "autoFocusManager",
-      "0.000"
-    ],
-    [
-      "_imageService",
-      "0.000"
-    ],
-    [
-      "runBare",
-      "0.000"
-    ],
-    [
-      "createEntityManagerFactory",
-      "0.000"
-    ],
-    [
-      "ChannelInformation",
-      "0.000"
-    ],
-    [
-      "fechaCreacion",
-      "0.000"
-    ],
-    [
-      "renewalIntervalInSecs",
-      "0.000"
-    ],
-    [
-      "ManagedBuffer",
-      "0.000"
-    ],
-    [
-      "auth",
-      "0.000"
-    ],
-    [
-      "BPELAppDeployerDSComponent",
-      "0.000"
-    ],
-    [
-      "getTagString",
-      "0.000"
-    ],
-    [
-      "adjMatrix",
-      "0.000"
-    ],
-    [
-      "AcidTable",
-      "0.000"
-    ],
-    [
-      "getFriendlyURLEntryId",
-      "0.000"
-    ],
-    [
-      "setDDMStructureId",
-      "0.000"
-    ],
-    [
-      "0xD",
-      "0.000"
-    ],
-    [
-      "expectedTarget",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "53": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.119"
     ],
     [
-      ")",
-      "0.577"
+      ".",
+      "0.984"
     ],
     [
-      "{",
-      "0.483"
+      "name",
+      "0.033"
     ],
     [
-      "return",
-      "0.546"
+      ";",
+      "0.945"
     ],
     [
-      "removeFromWatchlist",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "GlobalConfigJson",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "binarySearchFloor",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "ObjectNode",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "readInterfaces",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "PF_WriteShort",
-      "0.000"
-    ],
-    [
-      "declarationStatement",
-      "0.000"
-    ],
-    [
-      "getAuthor",
-      "0.000"
-    ],
-    [
-      "paint",
-      "0.000"
-    ],
-    [
-      "ICON_INFORMATION",
-      "0.000"
-    ],
-    [
-      "gson",
-      "0.000"
-    ],
-    [
-      "getBuildType",
-      "0.000"
-    ],
-    [
-      "boardElevator",
-      "0.000"
-    ],
-    [
-      "ChangeInfo",
-      "0.000"
-    ],
-    [
-      "m_popup",
-      "0.000"
-    ],
-    [
-      "setTopic",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "54": [
     [
-      "folderName",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "backupManagers",
-      "0.000"
+      "this",
+      "0.313"
     ],
     [
-      "mFileQueue",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "doScrollBackground",
-      "0.000"
+      "cursor",
+      "0.052"
     ],
     [
-      "updatePosition",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "CTMultiLvlStrData",
-      "0.000"
+      "this",
+      "0.714"
     ],
     [
-      "uniprotHost",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "getTextDocument",
-      "0.000"
+      "cursor",
+      "0.800"
     ],
     [
-      "deleteRuleDataProvider",
-      "0.000"
+      "+",
+      "0.750"
     ],
     [
-      "CustomTargetingKeyStatus",
-      "0.000"
-    ],
-    [
-      "getDirectedGraphNodes",
-      "0.000"
-    ],
-    [
-      "removeAccount",
-      "0.000"
-    ],
-    [
-      "readThrough",
-      "0.000"
-    ],
-    [
-      "encodedClusterNames",
-      "0.000"
-    ],
-    [
-      "httpParameters",
-      "0.000"
-    ],
-    [
-      "buildCount",
-      "0.000"
-    ],
-    [
-      "NavigationModel",
-      "0.000"
-    ],
-    [
-      "subscriptionsStore",
-      "0.000"
-    ],
-    [
-      "MethodDescriptionComposite",
-      "0.000"
-    ],
-    [
-      "IHasErrorLevel",
-      "0.000"
+      "arg0",
+      "1.000"
     ]
   ],
   "55": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      ")",
-      "0.081"
-    ],
-    [
-      ";",
-      "0.425"
+      "UNKNOWN",
+      "0.000"
     ]
   ],
   "56": [
     [
-      "cartsCache",
-      "0.000"
-    ],
-    [
-      "mProjectCalls",
-      "0.000"
-    ],
-    [
-      "delayBetweenRuns",
-      "0.000"
-    ],
-    [
-      "PubSubMessageType",
-      "0.000"
-    ],
-    [
-      "From",
-      "0.000"
-    ],
-    [
-      "mSessionInfo",
-      "0.000"
-    ],
-    [
-      "contractStartDate",
-      "0.000"
-    ],
-    [
-      "_outStream",
-      "0.000"
-    ],
-    [
-      "nativeGetOrigin",
-      "0.000"
-    ],
-    [
-      "rotateInner",
-      "0.000"
-    ],
-    [
-      "AbstractID",
-      "0.000"
-    ],
-    [
-      "formatTick",
-      "0.000"
-    ],
-    [
-      "setSelectors",
-      "0.000"
-    ],
-    [
-      "nextOffset",
-      "0.000"
-    ],
-    [
-      "EjbSessionDescriptor",
-      "0.000"
-    ],
-    [
-      "Git",
-      "0.000"
-    ],
-    [
-      "processRef",
-      "0.000"
-    ],
-    [
-      "XWiki",
-      "0.000"
-    ],
-    [
-      "TableLayoutCell",
-      "0.000"
-    ],
-    [
-      "getPrices",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "57": [
     [
-      "FkTypes",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "CompareToBuilder",
-      "0.000"
+      "return",
+      "0.246"
     ],
     [
-      "BookInfo",
-      "0.000"
+      "(",
+      "0.201"
     ],
     [
-      "setRowCount",
-      "0.000"
+      "arg0",
+      "0.523"
     ],
     [
-      "nodelist",
-      "0.000"
+      "&",
+      "0.203"
     ],
     [
-      "storeOptionItems",
-      "0.000"
+      "~",
+      "0.122"
     ],
     [
-      "TribbleException",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "makeRelative",
-      "0.000"
+      "PRIVATE",
+      "0.600"
     ],
     [
-      "J2ObjcEntryClassProvider",
-      "0.000"
+      "|",
+      "1.000"
     ],
     [
-      "JDOException",
-      "0.000"
-    ],
-    [
-      "getESuperTypes",
-      "0.000"
-    ],
-    [
-      "_thread",
-      "0.000"
-    ],
-    [
-      "P3D_MODE",
-      "0.000"
-    ],
-    [
-      "internalMaxRate",
-      "0.000"
-    ],
-    [
-      "DominatorNode",
-      "0.000"
-    ],
-    [
-      "ipAddressAndPortToUrlString",
-      "0.000"
-    ],
-    [
-      "testNullQueryParameterAccessToken",
-      "0.000"
-    ],
-    [
-      "WorkerContext",
-      "0.000"
-    ],
-    [
-      "Mod",
-      "0.000"
-    ],
-    [
-      "getLowerCaseString",
-      "0.000"
+      "PROTECTED",
+      "0.667"
     ]
   ],
   "58": [
     [
-      "TimerOptions",
-      "0.000"
+      "String",
+      "0.600"
     ],
     [
-      "getBroadcast",
-      "0.000"
+      "arg1",
+      "0.968"
     ],
     [
-      "subgroups",
-      "0.000"
+      ")",
+      "0.608"
     ],
     [
-      "HmChannel",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "NetworkInformation",
-      "0.000"
+      "if",
+      "0.222"
     ],
     [
-      "idleTimeout",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "m_task",
-      "0.000"
+      "arg0",
+      "0.285"
     ],
     [
-      "threadsAllowedToBlockForConnectionMultiplier",
-      "0.000"
+      "==",
+      "0.503"
     ],
     [
-      "derEncoding",
-      "0.000"
+      "null",
+      "0.885"
     ],
     [
-      "simplifyGroupsScore",
-      "0.000"
-    ],
-    [
-      "isToeScheduled",
-      "0.000"
-    ],
-    [
-      "getSB",
-      "0.000"
-    ],
-    [
-      "XYDifferenceRenderer",
-      "0.000"
-    ],
-    [
-      "pluginRegistry",
-      "0.000"
-    ],
-    [
-      "iRef",
-      "0.000"
-    ],
-    [
-      "StompCommand",
-      "0.000"
-    ],
-    [
-      "ATTRIBUTE_NAME",
-      "0.000"
-    ],
-    [
-      "JndiProvider",
-      "0.000"
-    ],
-    [
-      "get_state_OutputBuffer_11",
-      "0.000"
-    ],
-    [
-      "WatchKey",
-      "0.000"
+      ")",
+      "0.892"
     ]
   ],
   "59": [
     [
-      "SWORDEntry",
-      "0.000"
+      "loc0",
+      "0.867"
     ],
     [
-      "evaluationListener",
-      "0.000"
+      "=",
+      "0.948"
     ],
     [
-      "publicDnsName",
-      "0.000"
+      "0",
+      "0.251"
     ],
     [
-      "mBroadcasting",
-      "0.000"
+      ";",
+      "0.995"
     ],
     [
-      "isScriptValid",
-      "0.000"
+      "for",
+      "0.495"
     ],
     [
-      "clearSelectedAnnotations",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "sdt",
-      "0.000"
+      "int",
+      "0.516"
     ],
     [
-      "SnowballStemmer",
-      "0.000"
+      "loc1",
+      "0.669"
     ],
     [
-      "setNextFinishButtonEnabled",
-      "0.000"
+      "=",
+      "0.976"
     ],
     [
-      "nameToId",
-      "0.000"
-    ],
-    [
-      "getWindow",
-      "0.000"
-    ],
-    [
-      "getLoginServersFromRuntimeConfig",
-      "0.000"
-    ],
-    [
-      "spriteBatch",
-      "0.000"
-    ],
-    [
-      "analyzer",
-      "0.000"
-    ],
-    [
-      "ERXRestKey",
-      "0.000"
-    ],
-    [
-      "theNextState",
-      "0.000"
-    ],
-    [
-      "PixlrService",
-      "0.000"
-    ],
-    [
-      "addFeature",
-      "0.000"
-    ],
-    [
-      "asyncDiskService",
-      "0.000"
-    ],
-    [
-      "jacorb",
-      "0.000"
+      "0",
+      "0.831"
     ]
   ],
   "60": [
     [
+      "String",
+      "0.569"
+    ],
+    [
+      "arg1",
+      "0.968"
+    ],
+    [
+      ")",
+      "0.608"
+    ],
+    [
+      "{",
+      "1.000"
+    ],
+    [
+      "if",
+      "0.222"
+    ],
+    [
       "(",
-      "0.419"
+      "1.000"
     ],
     [
-      "int",
-      "0.042"
+      "arg0",
+      "0.285"
     ],
     [
-      "AutoPayInfoType",
-      "0.000"
+      "==",
+      "0.503"
     ],
     [
-      "nativeInit",
-      "0.000"
+      "null",
+      "0.885"
     ],
     [
-      "OutArg",
-      "0.000"
-    ],
-    [
-      "fProject",
-      "0.000"
-    ],
-    [
-      "Bounds",
-      "0.000"
-    ],
-    [
-      "LogAppl",
-      "0.000"
-    ],
-    [
-      "SqlMapExecutor",
-      "0.000"
-    ],
-    [
-      "beginTask",
-      "0.000"
-    ],
-    [
-      "sHA256TreeHash",
-      "0.000"
-    ],
-    [
-      "WebServiceTemplate",
-      "0.000"
-    ],
-    [
-      "tile",
-      "0.000"
-    ],
-    [
-      "Categories",
-      "0.000"
-    ],
-    [
-      "getKeyParameter",
-      "0.000"
-    ],
-    [
-      "_seconds",
-      "0.000"
-    ],
-    [
-      "fJavaReconcilingListener",
-      "0.000"
-    ],
-    [
-      "Spannable",
-      "0.000"
-    ],
-    [
-      "NotificationService",
-      "0.000"
-    ],
-    [
-      "characterSetName",
-      "0.000"
+      ")",
+      "0.892"
     ]
   ],
   "61": [
     [
-      "createSingleFileDescriptor",
-      "0.000"
+      "int",
+      "0.515"
     ],
     [
-      "PointLinkDescriptor",
-      "0.000"
+      "arg1",
+      "0.986"
     ],
     [
-      "Consumers",
-      "0.000"
+      ")",
+      "0.660"
     ],
     [
-      "ReminderType",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "crossComponentTraversal",
-      "0.000"
+      "return",
+      "0.292"
     ],
     [
-      "EmbeddedDatabaseConfigurerFactory",
-      "0.000"
+      "(",
+      "0.125"
     ],
     [
-      "mThemeCount",
-      "0.000"
+      "arg0",
+      "0.310"
     ],
     [
-      "mBuffersByLastUse",
-      "0.000"
+      "==",
+      "0.212"
     ],
     [
-      "_oHttpServletRequest",
-      "0.000"
+      "null",
+      "0.595"
     ],
     [
-      "KEY_TYPE",
-      "0.000"
-    ],
-    [
-      "CONRAD",
-      "0.000"
-    ],
-    [
-      "mostRecentConversionDate",
-      "0.000"
-    ],
-    [
-      "_theta",
-      "0.000"
-    ],
-    [
-      "Operator",
-      "0.000"
-    ],
-    [
-      "getAlgorithmId",
-      "0.000"
-    ],
-    [
-      "NodeIdentity",
-      "0.000"
-    ],
-    [
-      "LongBuffer",
-      "0.000"
-    ],
-    [
-      "selectedItemIndex",
-      "0.000"
-    ],
-    [
-      "numRecords",
-      "0.000"
-    ],
-    [
-      "getRules",
-      "0.000"
+      ")",
+      "0.636"
     ]
   ],
   "62": [
     [
-      "third",
-      "0.000"
+      "this",
+      "0.119"
     ],
     [
-      "HALF_ASCENT_CENTER",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "createTemp",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "PropertyValues",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "animations",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "MessageDestinationRefType",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "isMultiple",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "registerFix",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "WritableComparator",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "BarcodeClassResolver",
-      "0.000"
-    ],
-    [
-      "streetName",
-      "0.000"
-    ],
-    [
-      "onLog",
-      "0.000"
-    ],
-    [
-      "shpChannel",
-      "0.000"
-    ],
-    [
-      "ALBUM_PARAMETER",
-      "0.000"
-    ],
-    [
-      "getSubString",
-      "0.000"
-    ],
-    [
-      "BuilderModelStrategy",
-      "0.000"
-    ],
-    [
-      "GameTimer",
-      "0.000"
-    ],
-    [
-      "DataByteBuffer",
-      "0.000"
-    ],
-    [
-      "appendSelectedEventDetails",
-      "0.000"
-    ],
-    [
-      "RectShape",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "63": [
     [
-      "axisV",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "DataStoreFinder",
-      "0.000"
+      "return",
+      "0.692"
     ],
     [
-      "bus0",
-      "0.000"
+      "this",
+      "0.098"
     ],
     [
-      "getPackageInfo",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "CreateKeysAndCertificateResult",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "runQueueTest",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "startLogErrorsCnt",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "parentDims",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "viewResolver",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "addBookmark",
-      "0.000"
-    ],
-    [
-      "CODE_LATER",
-      "0.000"
-    ],
-    [
-      "ATR",
-      "0.000"
-    ],
-    [
-      "acceptFirstLine",
-      "0.000"
-    ],
-    [
-      "encryptDictionary",
-      "0.000"
-    ],
-    [
-      "pattern",
-      "0.000"
-    ],
-    [
-      "getPortletConfig",
-      "0.000"
-    ],
-    [
-      "CertificateException",
-      "0.000"
-    ],
-    [
-      "callbackReceiver",
-      "0.000"
-    ],
-    [
-      "offs",
-      "0.000"
-    ],
-    [
-      "fillDefaultsInternal",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "64": [
     [
-      "assertSeriesAndReturn",
-      "0.000"
+      "Set",
+      "0.273"
     ],
     [
-      "EnumPushReaction",
-      "0.000"
+      "<",
+      "1.000"
     ],
     [
-      "CheckParameterUtil",
-      "0.000"
+      "T",
+      "0.667"
     ],
     [
-      "trafficPolicyCount",
-      "0.000"
+      ">",
+      "1.000"
     ],
     [
-      "MemberUtils",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "verifierKey",
-      "0.000"
+      ")",
+      "0.800"
     ],
     [
-      "hasChanges",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "WORD_SPLIT_PATTERN",
-      "0.000"
+      "return",
+      "0.467"
     ],
     [
-      "latRadians",
-      "0.000"
+      "new",
+      "0.247"
     ],
     [
-      "SafeHtml",
-      "0.000"
-    ],
-    [
-      "ShadowChoreographer",
-      "0.000"
-    ],
-    [
-      "getResultList",
-      "0.000"
-    ],
-    [
-      "simpleClassName",
-      "0.000"
-    ],
-    [
-      "callingLocation",
-      "0.000"
-    ],
-    [
-      "TargetDecoySeries",
-      "0.000"
-    ],
-    [
-      "shipStrategyName",
-      "0.000"
-    ],
-    [
-      "smoothChanged",
-      "0.000"
-    ],
-    [
-      "BranchInfo",
-      "0.000"
-    ],
-    [
-      "getAuditEventDate",
-      "0.000"
-    ],
-    [
-      "convertStringEncoding",
-      "0.000"
+      "ResultMatcher",
+      "0.043"
     ]
   ],
   "65": [
     [
-      "(",
-      "0.566"
+      "int",
+      "0.515"
+    ],
+    [
+      "arg1",
+      "0.986"
     ],
     [
       ")",
-      "0.577"
+      "0.660"
     ],
     [
-      ";",
-      "0.269"
+      "{",
+      "1.000"
+    ],
+    [
+      "return",
+      "0.292"
+    ],
+    [
+      "(",
+      "0.125"
+    ],
+    [
+      "arg0",
+      "0.310"
+    ],
+    [
+      "==",
+      "0.212"
+    ],
+    [
+      "null",
+      "0.595"
+    ],
+    [
+      ")",
+      "0.636"
     ]
   ],
   "66": [
     [
+      "encoding",
+      "0.804"
+    ],
+    [
+      ".",
+      "1.000"
+    ],
+    [
+      "ser",
+      "0.500"
+    ],
+    [
+      ".",
+      "1.000"
+    ],
+    [
+      "BeanDeserializer",
+      "0.506"
+    ],
+    [
       "(",
-      "0.825"
+      "1.000"
     ],
     [
-      ")",
-      "0.577"
+      "arg1",
+      "1.000"
     ],
     [
-      "{",
-      "0.483"
+      ",",
+      "1.000"
     ],
     [
-      "return",
-      "0.546"
+      "arg2",
+      "1.000"
     ],
     [
-      "this",
-      "0.095"
-    ],
-    [
-      "distributions",
-      "0.000"
-    ],
-    [
-      "lonAccuracyAvailable",
-      "0.000"
-    ],
-    [
-      "Note",
-      "0.000"
-    ],
-    [
-      "WITHIN",
-      "0.000"
-    ],
-    [
-      "DiagnosticData",
-      "0.000"
-    ],
-    [
-      "createFile",
-      "0.000"
-    ],
-    [
-      "CallableBackgroundInitializer",
-      "0.000"
-    ],
-    [
-      "numBusiness",
-      "0.000"
-    ],
-    [
-      "getEnvironmentScripts",
-      "0.000"
-    ],
-    [
-      "SIZE_OF_SEGMENT",
-      "0.000"
-    ],
-    [
-      "SC_PROTOCOL_HTTP",
-      "0.000"
-    ],
-    [
-      "assertXmlEqual",
-      "0.000"
-    ],
-    [
-      "score",
-      "0.000"
-    ],
-    [
-      "objArrayUtils",
-      "0.000"
-    ],
-    [
-      "subjectUID",
-      "0.000"
+      ",",
+      "1.000"
     ]
   ],
   "67": [
     [
-      "substituteLegacyRules",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "generateHeaderBytes",
-      "0.000"
+      "return",
+      "0.246"
     ],
     [
-      "StudentClassroomModule",
-      "0.000"
+      "(",
+      "0.201"
     ],
     [
-      "opengles",
-      "0.000"
+      "arg0",
+      "0.523"
     ],
     [
-      "DescendantSelector",
-      "0.000"
+      "&",
+      "0.203"
     ],
     [
-      "handleMaps",
-      "0.000"
+      "~",
+      "0.122"
     ],
     [
-      "_scope",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "clockSequence",
-      "0.000"
+      "PRIVATE",
+      "0.600"
     ],
     [
-      "ColumnProperty",
-      "0.000"
+      "|",
+      "1.000"
     ],
     [
-      "SplitSystem",
-      "0.000"
-    ],
-    [
-      "getIntersectionNum",
-      "0.000"
-    ],
-    [
-      "hasAdvancedGUI",
-      "0.000"
-    ],
-    [
-      "local_tag",
-      "0.000"
-    ],
-    [
-      "dataStartFilePos",
-      "0.000"
-    ],
-    [
-      "SqlSessionTemplate",
-      "0.000"
-    ],
-    [
-      "getBlobstoreService",
-      "0.000"
-    ],
-    [
-      "CreateResourceResult",
-      "0.000"
-    ],
-    [
-      "basicConsume",
-      "0.000"
-    ],
-    [
-      "setEntityId",
-      "0.000"
-    ],
-    [
-      "filterFile",
-      "0.000"
+      "PROTECTED",
+      "0.667"
     ]
   ],
   "68": [
     [
-      "ExpressionNode",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "getfCosts",
-      "0.000"
+      "this",
+      "0.427"
     ],
     [
-      "iban",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "saveBitmap",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "dformat",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "CstInsn",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "clientResponseValue",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "OKAvroHandler",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "maxCount",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "CodeBookDictionary",
-      "0.000"
-    ],
-    [
-      "isEmpty",
-      "0.000"
-    ],
-    [
-      "404",
-      "0.000"
-    ],
-    [
-      "mbTraversed",
-      "0.000"
-    ],
-    [
-      "m_pw",
-      "0.000"
-    ],
-    [
-      "LocationIdentity",
-      "0.000"
-    ],
-    [
-      "getParameterName",
-      "0.000"
-    ],
-    [
-      "_className",
-      "0.000"
-    ],
-    [
-      "asKey",
-      "0.000"
-    ],
-    [
-      "nextPageToken",
-      "0.000"
-    ],
-    [
-      "CTTLAnimVariantIntegerVal",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "69": [
     [
-      "(",
-      "0.566"
+      "new",
+      "0.625"
     ],
     [
-      "com",
-      "0.004"
+      "ArrayList",
+      "0.041"
     ],
     [
-      "FRONT_SORTED",
-      "0.000"
+      "<",
+      "0.953"
     ],
     [
-      "HttpSessionUtil",
-      "0.000"
-    ],
-    [
-      "StructLinkType",
-      "0.000"
-    ],
-    [
-      "LpSolve",
-      "0.000"
-    ],
-    [
-      "THE_ONE",
-      "0.000"
+      ">",
+      "0.214"
     ],
     [
       "(",
-      "0.000"
+      "1.000"
     ],
     [
-      "PhoneCallContact",
-      "0.000"
+      ")",
+      "0.294"
     ],
     [
-      "PreconditionMessage",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "EPerson",
-      "0.000"
+      "}",
+      "0.225"
     ],
     [
-      "visualColumn",
-      "0.000"
+      "return",
+      "0.360"
     ],
     [
-      "Phase",
-      "0.000"
-    ],
-    [
-      "getCreatedComponent",
-      "0.000"
-    ],
-    [
-      "localDetachNetworkInterface",
-      "0.000"
-    ],
-    [
-      "MutableCallSite",
-      "0.000"
-    ],
-    [
-      "getMenuObjectType",
-      "0.000"
-    ],
-    [
-      "identityPoolId",
-      "0.000"
-    ],
-    [
-      "transformSource",
-      "0.000"
-    ],
-    [
-      "fCommentMap",
-      "0.000"
+      "this",
+      "0.769"
     ]
   ],
   "70": [
     [
-      "IDLE",
-      "0.000"
-    ],
-    [
-      "setWorkManager",
-      "0.000"
-    ],
-    [
-      "WSRoutingOrderV2SearchCriteriaWithPaging",
-      "0.000"
-    ],
-    [
-      "WSUserGroup",
-      "0.000"
-    ],
-    [
-      "shutdownInProgress",
-      "0.000"
-    ],
-    [
-      "dataColumn",
-      "0.000"
-    ],
-    [
-      "titleEditor",
-      "0.000"
-    ],
-    [
-      "deleteThauphu",
-      "0.000"
-    ],
-    [
-      "currentDownloadBytesPerSecond",
-      "0.000"
-    ],
-    [
-      "fSize",
-      "0.000"
-    ],
-    [
-      "ELEMENT",
-      "0.000"
-    ],
-    [
-      "setMessage",
-      "0.000"
-    ],
-    [
-      "ModuleMetadata",
-      "0.000"
-    ],
-    [
-      "CURSORS",
-      "0.000"
-    ],
-    [
-      "connectTerapy",
-      "0.000"
-    ],
-    [
-      "XMPPConfigurator",
-      "0.000"
-    ],
-    [
-      "SC_NO_CONTENT",
-      "0.000"
-    ],
-    [
-      "isNumber",
-      "0.000"
-    ],
-    [
-      "flatten",
-      "0.000"
-    ],
-    [
-      "splitLen",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "71": [
     [
-      "srch",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "HttpPurge",
-      "0.000"
+      "this",
+      "0.427"
     ],
     [
-      "getUsers",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "ErrorReportingRunner",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "ElementType",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "setEncodedStringValue",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "OgnlLanguage",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "MemcachedNode",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "OneMeasurement",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "MASTER_SLAVE",
-      "0.000"
-    ],
-    [
-      "DbUser",
-      "0.000"
-    ],
-    [
-      "getImageSDCardCache",
-      "0.000"
-    ],
-    [
-      "mProfitPercent",
-      "0.000"
-    ],
-    [
-      "InconsistentTypeCode",
-      "0.000"
-    ],
-    [
-      "rotateLeft",
-      "0.000"
-    ],
-    [
-      "parserExecuted",
-      "0.000"
-    ],
-    [
-      "ConversionService",
-      "0.000"
-    ],
-    [
-      "ByteMatchSetSummary",
-      "0.000"
-    ],
-    [
-      "handleInboundMessage",
-      "0.000"
-    ],
-    [
-      "Form",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "72": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.096"
     ],
     [
-      "String",
-      "0.144"
+      ".",
+      "0.984"
     ],
     [
-      "arg0",
-      "0.575"
+      "name",
+      "0.033"
     ],
     [
-      "ocpDate",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "chainRequestMatchers",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "charAt",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "setGlobal",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "PriorityQueueElement",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "sootClasspath",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "TotalSupportTree",
-      "0.000"
-    ],
-    [
-      "ProductorderdetailDAO",
-      "0.000"
-    ],
-    [
-      "subsystem",
-      "0.000"
-    ],
-    [
-      "PortalDiscoveryResult",
-      "0.000"
-    ],
-    [
-      "UNSET_MARK",
-      "0.000"
-    ],
-    [
-      "humanMulliganedToZero",
-      "0.000"
-    ],
-    [
-      "courseLetterGradeDisplayed",
-      "0.000"
-    ],
-    [
-      "RequestInput",
-      "0.000"
-    ],
-    [
-      "bidi",
-      "0.000"
-    ],
-    [
-      "getElementsReversed",
-      "0.000"
-    ],
-    [
-      "getRemaining",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "73": [
     [
-      "getGame",
-      "0.000"
-    ],
-    [
-      "configurationRecorders",
-      "0.000"
-    ],
-    [
-      "getIdNguoiTao",
-      "0.000"
-    ],
-    [
-      "ClientInterceptorRepository",
-      "0.000"
-    ],
-    [
-      "hmIpPort",
-      "0.000"
-    ],
-    [
-      "getVariableContext",
-      "0.000"
-    ],
-    [
-      "TEXT_NODE",
-      "0.000"
-    ],
-    [
-      "AnalyzerStats",
-      "0.000"
-    ],
-    [
-      "JniHdf",
-      "0.000"
-    ],
-    [
-      "CancellableConnection",
-      "0.000"
-    ],
-    [
-      "m_listeners",
-      "0.000"
-    ],
-    [
-      "getExceptions",
-      "0.000"
-    ],
-    [
-      "bounces",
-      "0.000"
-    ],
-    [
-      "TokenStreamFromTermVector",
-      "0.000"
-    ],
-    [
-      "JWT_FILE",
-      "0.000"
-    ],
-    [
-      "endKey",
-      "0.000"
-    ],
-    [
-      "Query",
-      "0.000"
-    ],
-    [
-      "createFromTagged",
-      "0.000"
-    ],
-    [
-      "AbstractBinder",
-      "0.000"
-    ],
-    [
-      "allocatedMips",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "74": [
     [
-      "_sDefaultInstance",
-      "0.000"
+      "this",
+      "0.087"
     ],
     [
-      "NaturalN",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "ReadableInstant",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "MIN_BUFFER",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "createDocument",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "mLonScreenLeft",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "isPreProcessing",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getJComponent",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "setResourceTagSets",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "34",
-      "0.000"
-    ],
-    [
-      "TieBreak",
-      "0.000"
-    ],
-    [
-      "getParamName",
-      "0.000"
-    ],
-    [
-      "checkPositionIndexes",
-      "0.000"
-    ],
-    [
-      "setFromString",
-      "0.000"
-    ],
-    [
-      "BluetoothGatt",
-      "0.000"
-    ],
-    [
-      "getContentSearchId",
-      "0.000"
-    ],
-    [
-      "IFolder",
-      "0.000"
-    ],
-    [
-      "d_ISWbemSinkProxy",
-      "0.000"
-    ],
-    [
-      "reasonCode",
-      "0.000"
-    ],
-    [
-      "INSTANCE",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "75": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.096"
     ],
     [
-      "boolean",
-      "0.009"
+      ".",
+      "0.984"
     ],
     [
-      "Document",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "ExitCode",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "Out",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "isFalse",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "createIndexLookup",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "CreateUserParams",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "AnnotationMember",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "previous",
-      "0.000"
-    ],
-    [
-      "BaseDeclaration",
-      "0.000"
-    ],
-    [
-      "assertJsonEqual",
-      "0.000"
-    ],
-    [
-      "InternDatabaseType",
-      "0.000"
-    ],
-    [
-      "getChainLoopDetector",
-      "0.000"
-    ],
-    [
-      "forJavaScriptSource",
-      "0.000"
-    ],
-    [
-      "injectHandler",
-      "0.000"
-    ],
-    [
-      "echoOn",
-      "0.000"
-    ],
-    [
-      "getLocationService",
-      "0.000"
-    ],
-    [
-      "filterConfig",
-      "0.000"
-    ],
-    [
-      "senders",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "76": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      "{",
-      "0.483"
-    ],
-    [
-      "throw",
-      "0.018"
-    ],
-    [
-      "isRollbackConnectionBeforeClose",
-      "0.000"
-    ],
-    [
-      "talendType",
-      "0.000"
-    ],
-    [
-      "testWithDeltas",
-      "0.000"
-    ],
-    [
-      "setBlockedTaskIds",
-      "0.000"
-    ],
-    [
-      "PROXY",
-      "0.000"
-    ],
-    [
-      "mHistory",
-      "0.000"
-    ],
-    [
-      "setJobName",
-      "0.000"
-    ],
-    [
-      "thanhnhan",
-      "0.000"
-    ],
-    [
-      "setInsecureHttpConnectionAllowed",
-      "0.000"
-    ],
-    [
-      "_offy",
-      "0.000"
-    ],
-    [
-      "RenewalDetail",
-      "0.000"
-    ],
-    [
-      "conflictingRateplans",
-      "0.000"
-    ],
-    [
-      "TypeUDT",
-      "0.000"
-    ],
-    [
-      "patron",
-      "0.000"
-    ],
-    [
-      "BlockCipher",
-      "0.000"
-    ],
-    [
-      "resetValues",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "77": [
     [
-      "checkEventThread",
-      "0.000"
-    ],
-    [
-      "betype",
-      "0.000"
-    ],
-    [
-      "SliceMergerException",
-      "0.000"
-    ],
-    [
-      "getOptionsCallback",
-      "0.000"
-    ],
-    [
-      "LoanApplicationTestBuilder",
-      "0.000"
-    ],
-    [
-      "GetInfoResponse",
-      "0.000"
-    ],
-    [
-      "floatToIntBits",
-      "0.000"
-    ],
-    [
-      "isAnnotationPresent",
-      "0.000"
-    ],
-    [
-      "_mask",
-      "0.000"
-    ],
-    [
-      "m_clusterId",
-      "0.000"
-    ],
-    [
-      "ExternalPassword",
-      "0.000"
-    ],
-    [
-      "getLongitudeE6",
-      "0.000"
-    ],
-    [
-      "addMeasure",
-      "0.000"
-    ],
-    [
-      "obj2bin",
-      "0.000"
-    ],
-    [
-      "getFirstIdx",
-      "0.000"
-    ],
-    [
-      "bundleDir",
-      "0.000"
-    ],
-    [
-      "failureCode",
-      "0.000"
-    ],
-    [
-      "LLNode",
-      "0.000"
-    ],
-    [
-      "UPPER",
-      "0.000"
-    ],
-    [
-      "fromSaveDirectory",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "78": [
     [
-      "(",
-      "0.825"
+      "this",
+      "0.087"
     ],
     [
-      ")",
-      "0.577"
+      ".",
+      "0.984"
     ],
     [
-      "currentDbSchemaVersion",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "setTelephone",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "getCoderRegistry",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "mGradientStartValue",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "TextBlock",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "putNextEntry",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "withdrawnNote",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "radToDeg",
-      "0.000"
-    ],
-    [
-      "_autoIncMode",
-      "0.000"
-    ],
-    [
-      "getOwnerId",
-      "0.000"
-    ],
-    [
-      "fromJsonStruct",
-      "0.000"
-    ],
-    [
-      "mGLState",
-      "0.000"
-    ],
-    [
-      "filterCmpValue",
-      "0.000"
-    ],
-    [
-      "MBeanServer",
-      "0.000"
-    ],
-    [
-      "IColorManager",
-      "0.000"
-    ],
-    [
-      "addSelectPred",
-      "0.000"
-    ],
-    [
-      "ViewContext",
-      "0.000"
-    ],
-    [
-      "NotAuthorizedException",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "79": [
     [
-      "BundleWiring",
-      "0.000"
-    ],
-    [
-      "setGeneratingDebug",
-      "0.000"
-    ],
-    [
-      "DATAITEM",
-      "0.000"
-    ],
-    [
-      "MessageCallback",
-      "0.000"
-    ],
-    [
-      "Protocol",
-      "0.000"
-    ],
-    [
-      "StubBuilder",
-      "0.000"
-    ],
-    [
-      "SocketChannelConfig",
-      "0.000"
-    ],
-    [
-      "nodelist",
-      "0.000"
-    ],
-    [
-      "40F",
-      "0.000"
-    ],
-    [
-      "MID_RUN",
-      "0.000"
-    ],
-    [
-      "AdakiteUtils",
-      "0.000"
-    ],
-    [
-      "locked",
-      "0.000"
-    ],
-    [
-      "CustomZipOutputStream",
-      "0.000"
-    ],
-    [
-      "pipeline",
-      "0.000"
-    ],
-    [
-      "STATE_PREPARED",
-      "0.000"
-    ],
-    [
-      "getAPIs",
-      "0.000"
-    ],
-    [
-      "initial",
-      "0.000"
-    ],
-    [
-      "optionArgs",
-      "0.000"
-    ],
-    [
-      "loadManagers",
-      "0.000"
-    ],
-    [
-      "setSuppressMarker",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "80": [
     [
-      "intersection",
-      "0.000"
+      "this",
+      "0.087"
     ],
     [
-      "UserTeamAssociationAction",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "N_OBJECTSPACE_PATH",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "downUrl",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "ColorChooser",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "A_NS",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "lodfacelist",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getSortorder",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Grammars",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "IorObject",
-      "0.000"
-    ],
-    [
-      "ZK_SESSION_TIMEOUT",
-      "0.000"
-    ],
-    [
-      "router",
-      "0.000"
-    ],
-    [
-      "Cleaner",
-      "0.000"
-    ],
-    [
-      "XMLDataObjectAssociationType",
-      "0.000"
-    ],
-    [
-      "getRootViewComponentId",
-      "0.000"
-    ],
-    [
-      "extractBooleanNamed",
-      "0.000"
-    ],
-    [
-      "CHECKSUM_NO_MATCH",
-      "0.000"
-    ],
-    [
-      "getCurrentModelView",
-      "0.000"
-    ],
-    [
-      "01",
-      "0.000"
-    ],
-    [
-      "_dialog",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "81": [
     [
-      "removeSelected",
-      "0.000"
+      "this",
+      "0.119"
     ],
     [
-      "getRealIndex",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "_waitMs",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "ModuleLoader",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "translation",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "CatalystInstanceImpl",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "Clients",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "totalShard",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getSimpleHttpResourcePath",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "BlockTokenSecretManager",
-      "0.000"
-    ],
-    [
-      "ImportName",
-      "0.000"
-    ],
-    [
-      "constantTerm",
-      "0.000"
-    ],
-    [
-      "CharStream",
-      "0.000"
-    ],
-    [
-      "fNestedModMaps",
-      "0.000"
-    ],
-    [
-      "estimateSelectivity",
-      "0.000"
-    ],
-    [
-      "even",
-      "0.000"
-    ],
-    [
-      "addParticipant",
-      "0.000"
-    ],
-    [
-      "getFieldSize",
-      "0.000"
-    ],
-    [
-      "ioOperations",
-      "0.000"
-    ],
-    [
-      "old",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "82": [
     [
-      "(",
-      "0.825"
+      ",",
+      "0.500"
+    ],
+    [
+      "final",
+      "1.000"
+    ],
+    [
+      "boolean",
+      "1.000"
+    ],
+    [
+      "arg1",
+      "1.000"
     ],
     [
       ")",
-      "0.577"
+      "1.000"
     ],
     [
       "{",
-      "0.483"
+      "1.000"
     ],
     [
-      "if",
-      "0.098"
+      "return",
+      "0.368"
     ],
     [
-      "(",
-      "0.552"
+      "arg1",
+      "0.429"
     ],
     [
-      "loc0",
-      "0.110"
+      "?",
+      "1.000"
     ],
     [
-      ")",
-      "0.200"
-    ],
-    [
-      "getWsrpConsumerPortletId",
-      "0.000"
-    ],
-    [
-      "BufferedImageOp",
-      "0.000"
-    ],
-    [
-      "MessageStamp",
-      "0.000"
-    ],
-    [
-      "acceptThrowing",
-      "0.000"
-    ],
-    [
-      "getServiceNames",
-      "0.000"
-    ],
-    [
-      "getAndDecrementTestLogic",
-      "0.000"
-    ],
-    [
-      "ch_List",
-      "0.000"
-    ],
-    [
-      "NANO_TO_MS_VALUE",
-      "0.000"
-    ],
-    [
-      "watcher",
-      "0.000"
-    ],
-    [
-      "ALWAYS_FALSE",
-      "0.000"
-    ],
-    [
-      "JSElementList",
-      "0.000"
-    ],
-    [
-      "paramValues",
-      "0.000"
-    ],
-    [
-      "CollectionWeigher",
-      "0.000"
+      "setByte",
+      "0.250"
     ]
   ],
   "83": [
     [
-      "generateGraph",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "mEmissions",
-      "0.000"
+      "this",
+      "0.427"
     ],
     [
-      "hasParent",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "xrefTable",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "setArgs",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "appendLink",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "full_class_name",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "processorChain2",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "crlValues",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "hasItemTest",
-      "0.000"
-    ],
-    [
-      "PasswordHash",
-      "0.000"
-    ],
-    [
-      "libraryMap",
-      "0.000"
-    ],
-    [
-      "Dict",
-      "0.000"
-    ],
-    [
-      "RewardsReport",
-      "0.000"
-    ],
-    [
-      "JComboBoxBinding",
-      "0.000"
-    ],
-    [
-      "CommandInterceptor",
-      "0.000"
-    ],
-    [
-      "getPojoPropertyDescriptor",
-      "0.000"
-    ],
-    [
-      "resetX",
-      "0.000"
-    ],
-    [
-      "numberChannel",
-      "0.000"
-    ],
-    [
-      "numShares",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "84": [
     [
-      "(",
-      "0.566"
+      "this",
+      "0.087"
     ],
     [
-      ")",
-      "0.577"
+      ".",
+      "0.984"
     ],
     [
-      "DerCoder",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "tempWarningEventSubscriber",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "getOptionName",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "socketMaxAlive",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "m_extensionFunctionNamespaces",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "_sPackageNamePrefix",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "getOpenSource",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "DefaultTestReport",
-      "0.000"
-    ],
-    [
-      "lineWidth",
-      "0.000"
-    ],
-    [
-      "entSrc",
-      "0.000"
-    ],
-    [
-      "logsrc",
-      "0.000"
-    ],
-    [
-      "Recommendation",
-      "0.000"
-    ],
-    [
-      "GatewayPro",
-      "0.000"
-    ],
-    [
-      "docAduaneroUnico",
-      "0.000"
-    ],
-    [
-      "LineIntersector",
-      "0.000"
-    ],
-    [
-      "denyDeleteTable",
-      "0.000"
-    ],
-    [
-      "isArchiveTypeSelected",
-      "0.000"
-    ],
-    [
-      "SPECIAL_CATEGORY_NAME",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "85": [
     [
-      "healthChecks",
-      "0.000"
-    ],
-    [
-      "Null_Object_Exception",
-      "0.000"
-    ],
-    [
-      "tableLock",
-      "0.000"
-    ],
-    [
-      "ICommandService",
-      "0.000"
-    ],
-    [
-      "GeneralException",
-      "0.000"
-    ],
-    [
-      "Pickup",
-      "0.000"
-    ],
-    [
-      "removeAllRanges",
-      "0.000"
-    ],
-    [
-      "flightws",
-      "0.000"
-    ],
-    [
-      "setConfigurer",
-      "0.000"
-    ],
-    [
-      "createLabel",
-      "0.000"
-    ],
-    [
-      "next_start_code",
-      "0.000"
-    ],
-    [
-      "setTargetFolder",
-      "0.000"
-    ],
-    [
-      "XWikiNotificationRule",
-      "0.000"
-    ],
-    [
-      "ejbDesc",
-      "0.000"
-    ],
-    [
-      "isNativeBzip2Loaded",
-      "0.000"
-    ],
-    [
-      "addClusterGroup",
-      "0.000"
-    ],
-    [
-      "LEADER_NAME",
-      "0.000"
-    ],
-    [
-      "writeHandler",
-      "0.000"
-    ],
-    [
-      "HTTPS_TEST_URI",
-      "0.000"
-    ],
-    [
-      "getStopsUrl",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "86": [
     [
-      "mTables",
-      "0.000"
+      "String",
+      "0.569"
     ],
     [
-      "trustManagerFactory",
-      "0.000"
+      "arg1",
+      "0.968"
     ],
     [
-      "mSeries",
-      "0.000"
+      ")",
+      "0.608"
     ],
     [
-      "PDShape",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "Object2IntLinkedOpenHashMap",
-      "0.000"
+      "if",
+      "0.222"
     ],
     [
-      "isBasicLand",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "rect",
-      "0.000"
+      "arg0",
+      "0.285"
     ],
     [
-      "AccessMode",
-      "0.000"
+      "==",
+      "0.503"
     ],
     [
-      "keyPath",
-      "0.000"
+      "null",
+      "0.885"
     ],
     [
-      "sourceLinked",
-      "0.000"
-    ],
-    [
-      "m_ExecutionStatus",
-      "0.000"
-    ],
-    [
-      "workstation",
-      "0.000"
-    ],
-    [
-      "Redirect",
-      "0.000"
-    ],
-    [
-      "deleteServiceComponent",
-      "0.000"
-    ],
-    [
-      "mService",
-      "0.000"
-    ],
-    [
-      "getFloatInfo",
-      "0.000"
-    ],
-    [
-      "getExecRoot",
-      "0.000"
-    ],
-    [
-      "getIntersectionNum",
-      "0.000"
-    ],
-    [
-      "DAYS",
-      "0.000"
-    ],
-    [
-      "PropertyEditorRegistry",
-      "0.000"
+      ")",
+      "0.892"
     ]
   ],
   "87": [
     [
-      "CreateLoginProfileResult",
-      "0.000"
+      "encoding",
+      "0.804"
     ],
     [
-      "XMLTokener",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "argb",
-      "0.000"
+      "ser",
+      "0.500"
     ],
     [
-      "newDateTime",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "getInstanceProfile",
-      "0.000"
+      "BeanDeserializer",
+      "0.506"
     ],
     [
-      "_GetCatByUser_QNAME",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "Persistence",
-      "0.000"
+      "arg1",
+      "1.000"
     ],
     [
-      "localResource",
-      "0.000"
+      ",",
+      "1.000"
     ],
     [
-      "totalPageCount",
-      "0.000"
+      "arg2",
+      "1.000"
     ],
     [
-      "checkNodeStatus",
-      "0.000"
-    ],
-    [
-      "parentPolicy",
-      "0.000"
-    ],
-    [
-      "mOptions",
-      "0.000"
-    ],
-    [
-      "PlaceRequest",
-      "0.000"
-    ],
-    [
-      "getMaTinh",
-      "0.000"
-    ],
-    [
-      "PrintStmtContext",
-      "0.000"
-    ],
-    [
-      "setRevisionList",
-      "0.000"
-    ],
-    [
-      "AIListener",
-      "0.000"
-    ],
-    [
-      "EagleConfigFactory",
-      "0.000"
-    ],
-    [
-      "lineIdx",
-      "0.000"
-    ],
-    [
-      "getModelLocation",
-      "0.000"
+      ",",
+      "1.000"
     ]
   ],
   "88": [
     [
-      "Multimap",
-      "0.000"
+      "String",
+      "0.569"
     ],
     [
-      "createScanForInitialAgentInfo",
-      "0.000"
+      "arg1",
+      "0.968"
     ],
     [
-      "setDatagramPacket",
-      "0.000"
+      ")",
+      "0.608"
     ],
     [
-      "f2",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "getCurrentPlace",
-      "0.000"
+      "if",
+      "0.222"
     ],
     [
-      "getCertificateDescription",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "sanitizeString",
-      "0.000"
+      "arg0",
+      "0.285"
     ],
     [
-      "TaskType",
-      "0.000"
+      "==",
+      "0.503"
     ],
     [
-      "getNewCode",
-      "0.000"
+      "null",
+      "0.885"
     ],
     [
-      "SIGNERS",
-      "0.000"
-    ],
-    [
-      "CharacterPipelineComponent",
-      "0.000"
-    ],
-    [
-      "FXYSum",
-      "0.000"
-    ],
-    [
-      "setUserName",
-      "0.000"
-    ],
-    [
-      "simplePOJO",
-      "0.000"
-    ],
-    [
-      "strVal1",
-      "0.000"
-    ],
-    [
-      "break",
-      "0.000"
-    ],
-    [
-      "PlanItem",
-      "0.000"
-    ],
-    [
-      "isGT0",
-      "0.000"
-    ],
-    [
-      "followUp",
-      "0.000"
-    ],
-    [
-      "StateT",
-      "0.000"
+      ")",
+      "0.892"
     ]
   ],
   "89": [
     [
-      "testValue",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "isRead",
-      "0.000"
+      "return",
+      "0.246"
     ],
     [
-      "AtomicFileWriter",
-      "0.000"
+      "(",
+      "0.201"
     ],
     [
-      "WeatherReturn",
-      "0.000"
+      "arg0",
+      "0.523"
     ],
     [
-      "createToken",
-      "0.000"
+      "&",
+      "0.203"
     ],
     [
-      "TagName",
-      "0.000"
+      "~",
+      "0.122"
     ],
     [
-      "ARGUMENT_NONE",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "startOffs",
-      "0.000"
+      "PRIVATE",
+      "0.600"
     ],
     [
-      "getOccupant",
-      "0.000"
+      "|",
+      "1.000"
     ],
     [
-      "0xFFFF",
-      "0.000"
-    ],
-    [
-      "setSortValues",
-      "0.000"
-    ],
-    [
-      "measureIndentInSpaces",
-      "0.000"
-    ],
-    [
-      "EMType",
-      "0.000"
-    ],
-    [
-      "billingAddressState",
-      "0.000"
-    ],
-    [
-      "playerCanSpawnHereSafely",
-      "0.000"
-    ],
-    [
-      "getSoTimeout",
-      "0.000"
-    ],
-    [
-      "FlowRule",
-      "0.000"
-    ],
-    [
-      "apiVersion",
-      "0.000"
-    ],
-    [
-      "DataStashSummary",
-      "0.000"
-    ],
-    [
-      "Distance",
-      "0.000"
+      "PROTECTED",
+      "0.667"
     ]
   ],
   "90": [
     [
-      "DFSConfigKeys",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "iamUserArn",
-      "0.000"
+      "this",
+      "0.427"
     ],
     [
-      "MapProperty",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "myFaveBucket",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "SimpleDigitalOut",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "ConflictException",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "CategorySub",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "Polygon",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "vml",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "mSplits",
-      "0.000"
-    ],
-    [
-      "ModelMetadata",
-      "0.000"
-    ],
-    [
-      "MOCK",
-      "0.000"
-    ],
-    [
-      "attributeName",
-      "0.000"
-    ],
-    [
-      "getEdgesFrom",
-      "0.000"
-    ],
-    [
-      "EwsServiceXmlReader",
-      "0.000"
-    ],
-    [
-      "clusterPropertiesFile",
-      "0.000"
-    ],
-    [
-      "MemoryUnit",
-      "0.000"
-    ],
-    [
-      "ResizableWidget",
-      "0.000"
-    ],
-    [
-      "Stanza",
-      "0.000"
-    ],
-    [
-      "OptionBuilder",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "91": [
     [
-      "InOutUtil",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "BlobStore",
-      "0.000"
+      "this",
+      "0.427"
     ],
     [
-      "amplitude",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "REPRODUCIBLE_PRNG",
-      "0.000"
+      "name",
+      "0.058"
     ],
     [
-      "_kbFolder",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "toThrift",
-      "0.000"
+      "arg0",
+      "0.995"
     ],
     [
-      "addOrUpdate",
-      "0.000"
+      ";",
+      "0.979"
     ],
     [
-      "m_sProtocol",
-      "0.000"
+      "}",
+      "0.906"
     ],
     [
-      "getValidDataSize",
-      "0.000"
+      "</s>",
+      "0.988"
     ],
     [
-      "m_notCovered",
-      "0.000"
-    ],
-    [
-      "saveNowInternal",
-      "0.000"
-    ],
-    [
-      "WIKIPEDIA_ENCODING",
-      "0.000"
-    ],
-    [
-      "DescendantSelector",
-      "0.000"
-    ],
-    [
-      "_vertices",
-      "0.000"
-    ],
-    [
-      "Languages",
-      "0.000"
-    ],
-    [
-      "Policies",
-      "0.000"
-    ],
-    [
-      "DestinationNode",
-      "0.000"
-    ],
-    [
-      "getPrivateCredentials",
-      "0.000"
-    ],
-    [
-      "readyForCommit",
-      "0.000"
-    ],
-    [
-      "QTIServiceException",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "92": [
     [
-      "checkFullDecomposition",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "PrimeNumberOps",
-      "0.000"
+      "return",
+      "0.813"
     ],
     [
-      "getKaleoTimers",
-      "0.000"
+      "doSwitch",
+      "0.311"
     ],
     [
-      "createSnapshot",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "RuntimeResourceModel",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "_selector",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "ORDER_ATTRIBUTE",
-      "0.000"
+      "eClass",
+      "0.622"
     ],
     [
-      "is_ValueChanged",
-      "0.000"
+      "(",
+      "1.000"
     ],
     [
-      "prog",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "registeredActions",
-      "0.000"
-    ],
-    [
-      "calculateDimensions",
-      "0.000"
-    ],
-    [
-      "KeyListener",
-      "0.000"
-    ],
-    [
-      "If",
-      "0.000"
-    ],
-    [
-      "LoadMetadataOptions",
-      "0.000"
-    ],
-    [
-      "pushPersonalizedOffers",
-      "0.000"
-    ],
-    [
-      "Yaml",
-      "0.000"
-    ],
-    [
-      "supportsTransactions",
-      "0.000"
-    ],
-    [
-      "ignoreUnknownFields",
-      "0.000"
-    ],
-    [
-      "getUserManager",
-      "0.000"
-    ],
-    [
-      "VType",
-      "0.000"
+      ",",
+      "0.676"
     ]
   ],
   "93": [
     [
-      "(",
-      "0.566"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      "{",
-      "0.483"
-    ],
-    [
-      "WriteFile",
-      "0.000"
-    ],
-    [
-      "Deadline",
-      "0.000"
-    ],
-    [
-      "Barrier",
-      "0.000"
-    ],
-    [
-      "SavedDiscount",
-      "0.000"
-    ],
-    [
-      "edgeTo",
-      "0.000"
-    ],
-    [
-      "VISIBLE",
-      "0.000"
-    ],
-    [
-      "VariableNotification",
-      "0.000"
-    ],
-    [
-      "containerIdToContainerMap",
-      "0.000"
-    ],
-    [
-      "IndividualIdSetter",
-      "0.000"
-    ],
-    [
-      "numberOfBytes",
-      "0.000"
-    ],
-    [
-      "StyleHandler",
-      "0.000"
-    ],
-    [
-      "dateModifiedWhere",
-      "0.000"
-    ],
-    [
-      "Futures",
-      "0.000"
-    ],
-    [
-      "findDecoratorForNode",
-      "0.000"
-    ],
-    [
-      "safeAbs",
-      "0.000"
-    ],
-    [
-      "APIException",
-      "0.000"
-    ],
-    [
-      "nameString",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "94": [
     [
-      "ConfigurationContainer",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "Dialect",
-      "0.000"
+      "this",
+      "1.000"
     ],
     [
-      "deleteRecentLayoutRevision",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "ClobInputStream",
-      "0.000"
+      "holder",
+      "1.000"
     ],
     [
-      "m_nBufsize",
-      "0.000"
+      "=",
+      "1.000"
     ],
     [
-      "AttachedEntityStatus",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "clickCommandInfos",
-      "0.000"
+      ";",
+      "1.000"
     ],
     [
-      "completeListSize",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "VersionT",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "MAX_STATE",
-      "0.000"
-    ],
-    [
-      "POOL_HDR_OFF_MEM_3",
-      "0.000"
-    ],
-    [
-      "sempath",
-      "0.000"
-    ],
-    [
-      "_myRemoteAddress",
-      "0.000"
-    ],
-    [
-      "mNativeDocument",
-      "0.000"
-    ],
-    [
-      "cooldownExpired",
-      "0.000"
-    ],
-    [
-      "STATISTICS_VARIANCE_LESS_THAN_ZERO",
-      "0.000"
-    ],
-    [
-      "getPhonesCount",
-      "0.000"
-    ],
-    [
-      "_elementDeclarationComplexTypes",
-      "0.000"
-    ],
-    [
-      "ericsson",
-      "0.000"
-    ],
-    [
-      "formatHeader",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "95": [
     [
-      "(",
-      "0.825"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      ";",
-      "0.269"
+      "UNKNOWN",
+      "0.000"
     ]
   ],
   "96": [
     [
-      "nameTable",
-      "0.000"
+      "this",
+      "0.096"
     ],
     [
-      "IP_NEVER_LOOKED_UP",
-      "0.000"
+      ".",
+      "0.984"
     ],
     [
-      "getSubPackageForClientOrSqlMap",
-      "0.000"
+      "name",
+      "0.033"
     ],
     [
-      "JobConf",
-      "0.000"
+      ";",
+      "0.945"
     ],
     [
-      "viewInstanceName",
-      "0.000"
+      "}",
+      "1.000"
     ],
     [
-      "importMediaToDirectory",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "_power",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "SwitchBoard",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "SVGPoint",
-      "0.000"
+      "</s>",
+      "1.000"
     ],
     [
-      "ParameterModeHelper",
-      "0.000"
-    ],
-    [
-      "BlockingQueue",
-      "0.000"
-    ],
-    [
-      "HighLowRenderer",
-      "0.000"
-    ],
-    [
-      "CaptureState",
-      "0.000"
-    ],
-    [
-      "EMenuObjectType",
-      "0.000"
-    ],
-    [
-      "ITimedStatemachine",
-      "0.000"
-    ],
-    [
-      "Bigquery",
-      "0.000"
-    ],
-    [
-      "sqlMapExecutor",
-      "0.000"
-    ],
-    [
-      "tlsVersions",
-      "0.000"
-    ],
-    [
-      "findMdsBundle",
-      "0.000"
-    ],
-    [
-      "Diffs",
-      "0.000"
+      "</s>",
+      "1.000"
     ]
   ],
   "97": [
     [
-      "newProxyInstance",
-      "0.000"
-    ],
-    [
-      "Responsibilities",
-      "0.000"
-    ],
-    [
-      "sizeOfManagedMemory",
-      "0.000"
-    ],
-    [
-      "Warlord",
-      "0.000"
-    ],
-    [
-      "unregisterListener",
-      "0.000"
-    ],
-    [
-      "getDefaultTcpBacklog",
-      "0.000"
-    ],
-    [
-      "refine",
-      "0.000"
-    ],
-    [
-      "bindIterator",
-      "0.000"
-    ],
-    [
-      "setDisableBetweenPredicate",
-      "0.000"
-    ],
-    [
-      "TaskInfo",
-      "0.000"
-    ],
-    [
-      "BITMAP_CONFIG",
-      "0.000"
-    ],
-    [
-      "CHECKED_IMAGE",
-      "0.000"
-    ],
-    [
-      "managedPackages",
-      "0.000"
-    ],
-    [
-      "partition",
-      "0.000"
-    ],
-    [
-      "IdentifierType",
-      "0.000"
-    ],
-    [
-      "typName",
-      "0.000"
-    ],
-    [
-      "button",
-      "0.000"
-    ],
-    [
-      "FormatRule",
-      "0.000"
-    ],
-    [
-      "ServiceStatus",
-      "0.000"
-    ],
-    [
-      "HomeActivity",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "98": [
     [
-      "(",
-      "0.566"
-    ],
-    [
-      ")",
-      "0.577"
-    ],
-    [
-      "RemotePkgInfo",
-      "0.000"
-    ],
-    [
-      "fleetId",
-      "0.000"
-    ],
-    [
-      "isArray",
-      "0.000"
-    ],
-    [
-      "DownloaderService",
-      "0.000"
-    ],
-    [
-      "CopyPackageRequest",
-      "0.000"
-    ],
-    [
-      "OPTIMIZED_DRAWING_ENABLED",
-      "0.000"
-    ],
-    [
-      "spanTermQuery",
-      "0.000"
-    ],
-    [
-      "WSWhereCondition",
-      "0.000"
-    ],
-    [
-      "EntityScannerBuilder",
-      "0.000"
-    ],
-    [
-      "getSignalOrigin",
-      "0.000"
-    ],
-    [
-      "doKeyAction",
-      "0.000"
-    ],
-    [
-      "mJournalWriter",
-      "0.000"
-    ],
-    [
-      "methodName",
-      "0.000"
-    ],
-    [
-      "setLoc",
-      "0.000"
-    ],
-    [
-      "offlineSupplyChainOverrideBulkUpdateRequest",
-      "0.000"
-    ],
-    [
-      "GeoserverDataDirectory",
-      "0.000"
-    ],
-    [
-      "CAMPAIGN_EXPORT_XML",
-      "0.000"
-    ],
-    [
-      "findByUserid",
+      "UNKNOWN",
       "0.000"
     ]
   ],
   "99": [
     [
-      "(",
-      "0.825"
+      ">",
+      "1.000"
     ],
     [
-      "tel2",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "Mode",
-      "0.000"
+      ")",
+      "1.000"
     ],
     [
-      "startToCloseTimeout",
-      "0.000"
+      "{",
+      "1.000"
     ],
     [
-      "MINIMUM_RESOLUTION",
-      "0.000"
+      "this",
+      "0.349"
     ],
     [
-      "PolicyAttributeTypeDescription",
-      "0.000"
+      ".",
+      "1.000"
     ],
     [
-      "viewerFilter",
-      "0.000"
+      "properties",
+      "0.015"
     ],
     [
-      "fileToKeep",
-      "0.000"
+      "=",
+      "0.750"
     ],
     [
-      "MetricQueryParser",
-      "0.000"
+      "arg0",
+      "1.000"
     ],
     [
-      "ColorAdjust",
-      "0.000"
-    ],
-    [
-      "LookupPaintScale",
-      "0.000"
-    ],
-    [
-      "TRANSPORT_TCP",
-      "0.000"
-    ],
-    [
-      "mpt2px",
-      "0.000"
-    ],
-    [
-      "ClientThread",
-      "0.000"
-    ],
-    [
-      "getErrorID",
-      "0.000"
-    ],
-    [
-      "queryInterceptor",
-      "0.000"
-    ],
-    [
-      "ComposablePointcut",
-      "0.000"
-    ],
-    [
-      "toNative",
-      "0.000"
-    ],
-    [
-      "LRUCacheEntry",
-      "0.000"
-    ],
-    [
-      "HelixVersion",
-      "0.000"
+      ";",
+      "1.000"
     ]
   ]
 }
